@@ -1,4 +1,4 @@
-package com.cquput.firstTest;
+package com.cqupt.chapter5;
 
 
 public class hello {
@@ -39,5 +39,13 @@ public class hello {
         System.out.println(2%-5);
         short bc = 1;
         short bb =127;
+
+        int c = 3;
+        int d = 4;
+        c = c ^ d;
+        d = c ^ d;
+        c = c ^ d;
+        System.out.println("c="+c);
+        System.out.println("d="+d);
     }
 }
