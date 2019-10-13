@@ -17,4 +17,7 @@ public class Student {
         System.out.println("study");
     }
 
+    public Student(){
+        System.out.println("构造方法执行了！");
+    }
 }

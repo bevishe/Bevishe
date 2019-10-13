@@ -2,47 +2,139 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/META-INF/Bevishe.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter5/Apple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter5/Cup.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter5/Cups.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter5/Demo1_method.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter5/Demo2_this.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter5/Demo3_Flower.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter5/Demo4_static.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter5/Demo5_Other.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter5/Dmeo6_array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter5/DynamicArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter5/Peeler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter5/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter5/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter5/Test8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter5/hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter6/Demo1_Oop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter6/Demo2_Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter6/Demo3_Phone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter6/Phone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter6/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter5/Demo1_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter5/Demo2_this.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter5/Demo3_Flower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter5/Demo4_static.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter5/Demo5_Other.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter5/Dmeo6_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter5/Test8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter6/Demo1_Oop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter6/Demo2_Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter6/Demo3_Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter6/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter6/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter10/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter10/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter10/CatFed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter10/CatGod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter10/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter10/Demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter10/Master.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter10/NormalPerson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter10/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter11/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter11/Demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter11/Demo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter11/Demo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter11/MyInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter11/MyInterfaceConstant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter11/MyInterfaceDefault.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter11/MyInterfaceDefaultImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter11/MyInterfaceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter11/MyInterfacePrivateA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter11/MyInterfacePrivateAImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter11/MyInterfaceStatic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter11/MyInterfaceStaticImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter12/Demo1_Multi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter12/Demo2_Multi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter12/Fu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter12/Zi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter6/Demo5_Variable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter6/Demo6_Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter6/Demo7_Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter6/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter7/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter7/Demo10_String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter7/Demo2_Sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter7/Demo3_Anonymous.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter7/Demo4_Anonymous.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter7/Demo5_Random.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter7/Demo6_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter7/Demo7_ArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter7/Demo8_String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter7/Demo9_String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter7/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter7/Test1_ArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter7/Test2_ArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter8/Demo1_Static.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter8/Demo3_StaticMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter8/Demo3_Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter8/Demo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter8/Demo4_Static.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter8/Demo5_Arrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter8/Demo6_Math.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter8/Demo7_Inheritance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter8/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter9/Assistant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter9/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter9/Demo2_ExtendsField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter9/Demo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter9/Demo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter9/Demo5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter9/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter9/Fu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter9/Fu1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter9/NewPhone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter9/Phone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter9/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter9/Zi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter9/Zi1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter10/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter10/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter10/CatFed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter10/CatGod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter10/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter10/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter10/Master.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter10/NormalPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter10/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter11/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter11/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter11/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter11/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter11/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter11/MyInterfaceConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter11/MyInterfaceDefault.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter11/MyInterfaceDefaultImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter11/MyInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter11/MyInterfacePrivateA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter11/MyInterfacePrivateAImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter11/MyInterfaceStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter11/MyInterfaceStaticImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter12/Demo1_Multi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter12/Demo2_Multi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter12/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter12/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter6/Demo5_Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter6/Demo6_Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter6/Demo7_Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter6/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter7/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter7/Demo10_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter7/Demo2_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter7/Demo3_Anonymous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter7/Demo4_Anonymous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter7/Demo5_Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter7/Demo6_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter7/Demo7_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter7/Demo8_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter7/Demo9_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter7/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter7/Test1_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter7/Test2_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter8/Demo1_Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter8/Demo3_StaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter8/Demo4_Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter8/Demo5_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter8/Demo6_Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter8/Demo7_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter8/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter9/Assistant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter9/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter9/Demo2_ExtendsField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter9/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter9/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter9/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter9/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter9/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter9/Fu1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter9/NewPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter9/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter9/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter9/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter9/Zi1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cquput/firstTest/demo1_method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cquput/firstTest/hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cquput/firstTest/demo1_method.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cquput/firstTest/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/chapter5/hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter6/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/chapter6/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cqupt/chapter6/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/chapter6/Student.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,9 +142,27 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="103" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -96,13 +206,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo3_Phone">
-    <configuration name="Demo1_Oop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.chapter6.Demo1_Oop" />
+  <component name="RunManager" selected="Application.Demo1_Multi">
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.chapter11.Demo1" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.chapter6.*" />
+          <option name="PATTERN" value="com.cqupt.chapter11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2_Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.chapter6.Demo2_Student" />
+    <configuration name="Demo1_Multi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.chapter12.Demo1_Multi" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.chapter6.*" />
+          <option name="PATTERN" value="com.cqupt.chapter12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +233,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo3_Phone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.chapter6.Demo3_Phone" />
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.chapter11.Demo2" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.chapter6.*" />
+          <option name="PATTERN" value="com.cqupt.chapter11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +246,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dmeo6_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cquput.chapter5.Dmeo6_array" />
+    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.chapter11.Demo3" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cquput.chapter5.*" />
+          <option name="PATTERN" value="com.cqupt.chapter11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +259,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cquput.chapter5.hello" />
+    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.chapter11.Demo4" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cquput.chapter5.*" />
+          <option name="PATTERN" value="com.cqupt.chapter11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +274,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo3_Phone" />
-        <item itemvalue="Application.Demo2_Student" />
-        <item itemvalue="Application.Demo1_Oop" />
-        <item itemvalue="Application.hello" />
-        <item itemvalue="Application.Dmeo6_array" />
+        <item itemvalue="Application.Demo1_Multi" />
+        <item itemvalue="Application.Demo4" />
+        <item itemvalue="Application.Demo3" />
+        <item itemvalue="Application.Demo2 (1)" />
+        <item itemvalue="Application.Demo1" />
       </list>
     </recent_temporary>
   </component>
@@ -181,8 +291,18 @@
       <updated>1569464371679</updated>
       <workItem from="1569464374350" duration="63000" />
       <workItem from="1569498316555" duration="12084000" />
-      <workItem from="1569922909888" duration="25925000" />
+      <workItem from="1569922909888" duration="32814000" />
+      <workItem from="1570434806775" duration="12039000" />
+      <workItem from="1570626798413" duration="31054000" />
     </task>
+    <task id="LOCAL-00001" summary="完成基础语法">
+      <created>1570362270044</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570362270044</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,10 +313,21 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="完成基础语法" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成基础语法" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Bevishe$Demo1_Multi.ic" NAME="Demo1_Multi Coverage Results" MODIFIED="1570801837981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.cqupt.chapter12.*</FILTER>
+    </SUITE>
   </component>
 </project>
