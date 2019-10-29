@@ -1,4 +1,4 @@
-package com.cqupt.list;
+package com.cqupt.collection;
 
 import java.util.ArrayList;
 import java.util.Collection;

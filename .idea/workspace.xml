@@ -2,55 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/bevis/util/Print.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/ApiDate/Demo1_Data.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/ApiDate/Demo3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/apiClass/Demo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/apiClass/Demo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/apiClass/Demo3_String.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/apiStringBuilder/Demo2_StringBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/apiStringBuilder/Demo3_ToString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/generic/Demo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/generic/Demo2_GenericClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/generic/Demo3_GenericMethod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/generic/Demo4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/generic/Demo5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/generic/Demo6_Generic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/generic/GenericClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/generic/GenericInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/generic/GenericInterfaceImpl1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/generic/GenericInterfaceImpl2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/generic/GenericMethod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/landlords/Demo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/list/Demo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/list/Demo2_Collection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/list/Demo3_Iterator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/list/Demo4_Iterator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/list/Demo5_for.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/apiClass/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/apiClass/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/apiClass/Demo3_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/apiStringBuilder/Demo2_StringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/apiStringBuilder/Demo3_ToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter18/Demo1_Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/generic/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/generic/Demo2_GenericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/generic/Demo3_GenericMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/generic/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/generic/Demo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/generic/Demo6_Generic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/generic/GenericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/generic/GenericInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/generic/GenericInterfaceImpl1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/generic/GenericInterfaceImpl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/generic/GenericMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/landlords/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/list/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/list/Demo2_Collection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/list/Demo3_Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/list/Demo4_Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/list/Demo5_for.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bevis/util/Chopstick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bevis/util/ChopstickArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bevis/util/DiningPhilosophersFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bevis/util/Philosopher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter19/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/collections/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/collections/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/collections/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/debug/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/debug/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/list/Demo1_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/list/Demo2_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/list/Demo3_Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/list/Demo4_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/map/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/map/Demo2_Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/map/Demo3_HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/map/Demo4_LinkedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/map/Demo5_HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/map/Demo6_Jdk9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/map/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/map/Test1_Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/set/Demo1_Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/set/Demo2_HashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/set/Demo3_HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/set/Demo4_Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/set/Demo5_Hash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/set/Demo6_LinkedHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/set/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/list/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/list/Demo2_Collection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/list/Demo3_Iterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/list/Demo4_Iterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/list/Demo5_for.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cqupt/chapter18/Demo1_Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/chapter18/Demo1_Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cqupt/list/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/collection/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cqupt/list/Demo2_Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/collection/Demo2_Collection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cqupt/list/Demo3_Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/collection/Demo3_Iterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cqupt/list/Demo4_Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/collection/Demo4_Iterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cqupt/list/Demo5_for.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/collection/Demo5_for.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -125,13 +117,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo1 (1)">
-    <configuration name="Demo1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.landlords.Demo1" />
+  <component name="RunManager" selected="Application.Demo2">
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.debug.Demo1" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.landlords.*" />
+          <option name="PATTERN" value="com.cqupt.debug.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2_GenericClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.generic.Demo2_GenericClass" />
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.debug.Demo2" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.generic.*" />
+          <option name="PATTERN" value="com.cqupt.debug.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo3_GenericMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.generic.Demo3_GenericMethod" />
+    <configuration name="Demo4_LinkedHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.map.Demo4_LinkedHashMap" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.generic.*" />
+          <option name="PATTERN" value="com.cqupt.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.generic.Demo4" />
+    <configuration name="Demo5_HashTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.map.Demo5_HashTable" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.generic.*" />
+          <option name="PATTERN" value="com.cqupt.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo6_Generic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.generic.Demo6_Generic" />
+    <configuration name="Test1_Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.map.Test1_Map" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.generic.*" />
+          <option name="PATTERN" value="com.cqupt.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo1 (1)" />
-        <item itemvalue="Application.Demo6_Generic" />
-        <item itemvalue="Application.Demo4" />
-        <item itemvalue="Application.Demo3_GenericMethod" />
-        <item itemvalue="Application.Demo2_GenericClass" />
+        <item itemvalue="Application.Demo2" />
+        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.Test1_Map" />
+        <item itemvalue="Application.Demo5_HashTable" />
+        <item itemvalue="Application.Demo4_LinkedHashMap" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +206,8 @@
       <workItem from="1570434806775" duration="12039000" />
       <workItem from="1570626798413" duration="31054000" />
       <workItem from="1571106113398" duration="25680000" />
-      <workItem from="1571664244477" duration="27404000" />
+      <workItem from="1571664244477" duration="49415000" />
+      <workItem from="1572269512416" duration="11667000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础语法">
       <created>1570362270044</created>
@@ -230,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571710671424</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="集合">
+      <created>1571755210998</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571755210998</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,7 +252,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="完成基础语法" />
     <MESSAGE value="api(Date,Object) util(print)" />
-    <option name="LAST_COMMIT_MESSAGE" value="api(Date,Object) util(print)" />
+    <MESSAGE value="集合" />
+    <option name="LAST_COMMIT_MESSAGE" value="集合" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Bevishe$Demo1_Multi.ic" NAME="Demo1_Multi Coverage Results" MODIFIED="1570801837981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

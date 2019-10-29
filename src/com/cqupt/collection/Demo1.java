@@ -1,4 +1,4 @@
-package com.cqupt.list;
+package com.cqupt.collection;
 
 public class Demo1 {
     /*
