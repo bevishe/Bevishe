@@ -2,47 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bevis/util/Chopstick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bevis/util/ChopstickArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bevis/util/DiningPhilosophersFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bevis/util/Philosopher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/chapter19/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/collections/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/collections/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/collections/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/debug/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/debug/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/list/Demo1_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/list/Demo2_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/list/Demo3_Vector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/list/Demo4_LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/map/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/map/Demo2_Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/map/Demo3_HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/map/Demo4_LinkedHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/map/Demo5_HashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/map/Demo6_Jdk9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/map/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/map/Test1_Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/set/Demo1_Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/set/Demo2_HashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/set/Demo3_HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/set/Demo4_Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/set/Demo5_Hash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/set/Demo6_LinkedHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/set/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Demo10_FuZiException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Demo11_Customize.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Demo12_MyException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Demo2_Exception.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Demo3_Throw.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Demo4_Objects.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Demo5_Throws.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Demo6_TryCatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Demo7_Throwable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Demo8_Finally.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Demo9_Finally.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Fu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Fu_Exception.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Zi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Zi_Exception.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/Demo12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/Demo15$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/Demo15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/exception/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/exception/Demo10_FuZiException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/exception/Demo11_Customize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/exception/Demo12_MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/exception/Demo2_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/exception/Demo3_Throw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/exception/Demo4_Objects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/exception/Demo5_Throws.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/exception/Demo6_TryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/exception/Demo7_Throwable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/exception/Demo8_Finally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/exception/Demo9_Finally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/exception/Fu_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/exception/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/exception/Zi_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/thread/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/list/Demo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/list/Demo2_Collection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/list/Demo3_Iterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/list/Demo4_Iterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/list/Demo5_for.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cqupt/chapter18/Demo1_Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/chapter18/Demo1_Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cqupt/list/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/collection/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cqupt/list/Demo2_Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/collection/Demo2_Collection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cqupt/list/Demo3_Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/collection/Demo3_Iterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cqupt/list/Demo4_Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/collection/Demo4_Iterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cqupt/list/Demo5_for.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/collection/Demo5_for.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,13 +115,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo2">
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.debug.Demo1" />
+  <component name="RunManager" selected="Application.Test1">
+    <configuration name="Demo12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.Demo12" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.debug.*" />
+          <option name="PATTERN" value="com.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.debug.Demo2" />
+    <configuration name="Demo15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.Demo15" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.debug.*" />
+          <option name="PATTERN" value="com.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo4_LinkedHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.map.Demo4_LinkedHashMap" />
+    <configuration name="Demo8_Finally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.exception.Demo8_Finally" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.map.*" />
+          <option name="PATTERN" value="com.cqupt.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo5_HashTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.map.Demo5_HashTable" />
+    <configuration name="Demo9_Finally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.exception.Demo9_Finally" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.map.*" />
+          <option name="PATTERN" value="com.cqupt.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1_Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.map.Test1_Map" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.exception.Test1" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.map.*" />
+          <option name="PATTERN" value="com.cqupt.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo2" />
-        <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.Test1_Map" />
-        <item itemvalue="Application.Demo5_HashTable" />
-        <item itemvalue="Application.Demo4_LinkedHashMap" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Demo9_Finally" />
+        <item itemvalue="Application.Demo15" />
+        <item itemvalue="Application.Demo12" />
+        <item itemvalue="Application.Demo8_Finally" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +205,11 @@
       <workItem from="1570626798413" duration="31054000" />
       <workItem from="1571106113398" duration="25680000" />
       <workItem from="1571664244477" duration="49415000" />
-      <workItem from="1572269512416" duration="11667000" />
+      <workItem from="1572269512416" duration="19720000" />
+      <workItem from="1572509875989" duration="16519000" />
+      <workItem from="1572851733445" duration="14040000" />
+      <workItem from="1572872012502" duration="2637000" />
+      <workItem from="1573007780524" duration="3690000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础语法">
       <created>1570362270044</created>
@@ -230,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571755210998</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="学习了集合中的collection，list，set和map接口以及他们的相关实现类，同时还学习了集合的工具类Collections">
+      <created>1572319572985</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572319572985</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,7 +262,8 @@
     <MESSAGE value="完成基础语法" />
     <MESSAGE value="api(Date,Object) util(print)" />
     <MESSAGE value="集合" />
-    <option name="LAST_COMMIT_MESSAGE" value="集合" />
+    <MESSAGE value="学习了集合中的collection，list，set和map接口以及他们的相关实现类，同时还学习了集合的工具类Collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="学习了集合中的collection，list，set和map接口以及他们的相关实现类，同时还学习了集合的工具类Collections" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Bevishe$Demo1_Multi.ic" NAME="Demo1_Multi Coverage Results" MODIFIED="1570801837981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
