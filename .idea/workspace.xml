@@ -2,8 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/thread/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/fileFilter/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/ioByteStream/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/ioByteStream/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/ioByteStream/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/ioByteStream/Demo4_InputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/ioByteStream/Demo5_FileInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/ioByteStream/Demo6_FileCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/ioByteStream/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/ioByteStream/img/figure1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/ioByteStream/img/figure2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/ioByteStream/io.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/ioByteStream/io字节流.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/ioCharStream/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/ioCharStream/Demo2_FileWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/ioCharStream/Demo3_FlushClose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/ioCharStream/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/ioCharStream/io.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/ioCharStream/io字符流笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/properties/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/properties/properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/properties/properties的笔记.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Demo10_FuZiException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Demo10_FuZiException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Fu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Fu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Zi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/exception/Zi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cqupt/exception/Demo10_FuZiException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/exception/Demo10_FuZiException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cqupt/file/Demo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/file/Demo5.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +74,7 @@
   </component>
   <component name="ProjectId" id="1RM5xYzxsgVpcmwxmGwkaitAMZb" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -76,13 +103,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo1 (3)">
+  <component name="RunManager" selected="Application.Demo1 (1)">
     <configuration name="Demo1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.ApiDate.Demo1" />
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.properties.Demo1" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.ApiDate.*" />
+          <option name="PATTERN" value="com.cqupt.properties.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.aipSystem.Demo1" />
+    <configuration name="Demo10_FuZiException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.exception.Demo10_FuZiException" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.aipSystem.*" />
+          <option name="PATTERN" value="com.cqupt.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.apiStringBuilder.Demo1" />
+    <configuration name="Demo2_FileWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.ioCharStream.Demo2_FileWrite" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.apiStringBuilder.*" />
+          <option name="PATTERN" value="com.cqupt.ioCharStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.ApiCalendar.Demo1" />
+    <configuration name="Demo3_FlushClose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.ioCharStream.Demo3_FlushClose" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.ApiCalendar.*" />
+          <option name="PATTERN" value="com.cqupt.ioCharStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1_Multi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.chapter12.Demo1_Multi" />
+    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.ioCharStream.Demo4" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.chapter12.*" />
+          <option name="PATTERN" value="com.cqupt.ioCharStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo1 (3)" />
-        <item itemvalue="Application.Demo1 (2)" />
-        <item itemvalue="Application.Demo1" />
         <item itemvalue="Application.Demo1 (1)" />
-        <item itemvalue="Application.Demo1_Multi" />
+        <item itemvalue="Application.Demo4" />
+        <item itemvalue="Application.Demo3_FlushClose" />
+        <item itemvalue="Application.Demo10_FuZiException" />
+        <item itemvalue="Application.Demo2_FileWrite" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +194,9 @@
       <workItem from="1571296865245" duration="9652000" />
       <workItem from="1572439344163" duration="1800000" />
       <workItem from="1573474072360" duration="317000" />
+      <workItem from="1573542875132" duration="11125000" />
+      <workItem from="1573739198738" duration="128000" />
+      <workItem from="1573821644032" duration="21928000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础语法">
       <created>1570362270044</created>

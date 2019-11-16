@@ -17,5 +17,12 @@ public class Demo5 {
         for (int i = 0; i < filesList.length; i++) {
             System.out.println(filesList[i].getPath());
         }
+        for (File file1 : filesList) {
+            if(file1.isDirectory()){}
+        }
+    }
+
+    private void getAllFiles(File file){
+
     }
 }
