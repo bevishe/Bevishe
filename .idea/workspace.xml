@@ -2,23 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/bufferedStream/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/bufferedStream/Demo2_FileInputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/bufferedStream/Demo3_FileWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/bufferedStream/Demo4_FileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/bufferedStream/Demo5_FileSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/bufferedStream/copy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/bufferedStream/img/figure1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/bufferedStream/io.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/bufferedStream/task.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/bufferedStream/缓冲流笔记.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/transformStream/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/transformStream/转换流笔记.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/junit/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/junit/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/junit/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/junit/单元测试笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/junitTest/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/net/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/net/网络编程笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/printStream/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/printStream/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/printStream/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/printStream/print.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/reflaction/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/reflaction/img/figure1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/reflaction/反射笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/serialize/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/serialize/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/serialize/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/serialize/arrayList.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/serialize/img/figure1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/serialize/person.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/serialize/序列化笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/transformStream/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/transformStream/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/transformStream/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/transformStream/gbk.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/transformStream/img/figure1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/transformStream/img/figure2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/transformStream/系统.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cqupt/lambda/Demo5_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/lambda/Demo5_Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bevishe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Bevishe.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cqupt/transformStream/转换流笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/transformStream/转换流笔记.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +69,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -64,9 +80,14 @@
   <component name="ProjectId" id="1RM5xYzxsgVpcmwxmGwkaitAMZb" />
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -78,7 +99,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -92,13 +113,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo5_FileSort">
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.bufferedStream.Demo1" />
+  <component name="RunManager" selected="JUnit.CalculatorTest">
+    <configuration name="CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.junit.CalculatorTest" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.bufferedStream.*" />
+          <option name="PATTERN" value="com.cqupt.junit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2_FileInputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.bufferedStream.Demo2_FileInputStream" />
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.printStream.Demo2" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.bufferedStream.*" />
+          <option name="PATTERN" value="com.cqupt.printStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,52 +140,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo3_FileWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.bufferedStream.Demo3_FileWrite" />
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.bufferedStream.*" />
+          <option name="PATTERN" value="com.cqupt.junitTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cqupt.junitTest" />
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.junitTest.CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo4_FileReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.bufferedStream.Demo4_FileReader" />
+    <configuration name="CalculatorTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.bufferedStream.*" />
+          <option name="PATTERN" value="com.cqupt.junitTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cqupt.junitTest" />
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.junitTest.CalculatorTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo5_FileSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.bufferedStream.Demo5_FileSort" />
+    <configuration name="CalculatorTest.testSub" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.bufferedStream.*" />
+          <option name="PATTERN" value="com.cqupt.junitTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cqupt.junitTest" />
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.junitTest.CalculatorTest" />
+      <option name="METHOD_NAME" value="testSub" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo5_FileSort" />
-        <item itemvalue="Application.Demo4_FileReader" />
-        <item itemvalue="Application.Demo3_FileWrite" />
-        <item itemvalue="Application.Demo2_FileInputStream" />
-        <item itemvalue="Application.Demo1" />
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.CalculatorTest.testSub" />
+        <item itemvalue="JUnit.CalculatorTest.testAdd" />
+        <item itemvalue="Application.CalculatorTest" />
+        <item itemvalue="Application.Demo2" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +215,9 @@
       <workItem from="1573542875132" duration="11125000" />
       <workItem from="1573739198738" duration="128000" />
       <workItem from="1573821644032" duration="22560000" />
-      <workItem from="1573962958477" duration="17301000" />
+      <workItem from="1573962958477" duration="17509000" />
+      <workItem from="1574079753676" duration="216000" />
+      <workItem from="1574079996502" duration="14518000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础语法">
       <created>1570362270044</created>
@@ -223,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573915332852</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="11.17周日&#10;缓冲流，leetcode中快慢指针，回溯法">
+      <created>1574000914055</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574000914055</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,7 +285,8 @@
     <MESSAGE value="Api(System,Calendar,Date,StringBuilder)" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;添加了字节流和字符流的代码，已经属性集Properties集合代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;添加了字节流和字符流的代码，已经属性集Properties集合代码" />
+    <MESSAGE value="11.17周日&#10;缓冲流，leetcode中快慢指针，回溯法" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.17周日&#10;缓冲流，leetcode中快慢指针，回溯法" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Bevishe$Demo1_Multi.ic" NAME="Demo1_Multi Coverage Results" MODIFIED="1570801837981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
