@@ -2,38 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/junit/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/junit/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/junit/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/junit/单元测试笔记.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/junitTest/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/net/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/net/网络编程笔记.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/printStream/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/printStream/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/printStream/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/printStream/print.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/reflaction/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/reflaction/img/figure1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/reflaction/反射笔记.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/serialize/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/serialize/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/serialize/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/serialize/arrayList.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/serialize/img/figure1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/serialize/person.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/serialize/序列化笔记.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/transformStream/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/transformStream/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/transformStream/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/transformStream/gbk.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/transformStream/img/figure1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/transformStream/img/figure2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/transformStream/系统.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/NQueen2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bevishe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Bevishe.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cqupt/transformStream/转换流笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/transformStream/转换流笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/Demo22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/Demo22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/NQueens.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +29,9 @@
     </option>
     <expand />
     <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Bevishe" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -113,13 +88,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest">
-    <configuration name="CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.junit.CalculatorTest" />
+  <component name="RunManager" selected="Application.NQueens">
+    <configuration name="NQueen2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.NQueen2" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.junit.*" />
+          <option name="PATTERN" value="com.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.printStream.Demo2" />
+    <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.NQueens" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.printStream.*" />
+          <option name="PATTERN" value="com.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NQueens" />
+        <item itemvalue="Application.NQueen2" />
         <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="JUnit.CalculatorTest.testSub" />
         <item itemvalue="JUnit.CalculatorTest.testAdd" />
-        <item itemvalue="Application.CalculatorTest" />
-        <item itemvalue="Application.Demo2" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +192,7 @@
       <workItem from="1573821644032" duration="22560000" />
       <workItem from="1573962958477" duration="17509000" />
       <workItem from="1574079753676" duration="216000" />
-      <workItem from="1574079996502" duration="14518000" />
+      <workItem from="1574079996502" duration="44309000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础语法">
       <created>1570362270044</created>
@@ -261,7 +236,21 @@
       <option name="project" value="LOCAL" />
       <updated>1574000914055</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="11.19周二&#10;转换流，输出流，Junit单元测试">
+      <created>1574145528104</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574145528104</updated>
+    </task>
+    <task id="LOCAL-00008" summary="11.19周二&#10;该八皇后的代码结果是重复的，尚未找到bug点">
+      <created>1574164732467</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574164732467</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,7 +275,16 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;添加了字节流和字符流的代码，已经属性集Properties集合代码" />
     <MESSAGE value="11.17周日&#10;缓冲流，leetcode中快慢指针，回溯法" />
-    <option name="LAST_COMMIT_MESSAGE" value="11.17周日&#10;缓冲流，leetcode中快慢指针，回溯法" />
+    <MESSAGE value="11.19周二&#10;转换流，输出流，Junit单元测试" />
+    <MESSAGE value="11.19周二&#10;该八皇后的代码结果是重复的，尚未找到bug点" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.19周二&#10;该八皇后的代码结果是重复的，尚未找到bug点" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="bo[0][2]" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Bevishe$Demo1_Multi.ic" NAME="Demo1_Multi Coverage Results" MODIFIED="1570801837981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
