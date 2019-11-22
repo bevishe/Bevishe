@@ -19,7 +19,7 @@ public class NQueens {
     private static void queen(int t,int[][] bo){
         if(t==N){
             NQueens.n += 1;
-            System.out.println("该摆放是可行的"+NQueens.n);
+            System.out.print("该摆放是可行的"+NQueens.n);
             // 将矩阵结果打印出
             int[] temp = new int[N];
             for (int i = 0; i < N; i++) {
@@ -32,6 +32,7 @@ public class NQueens {
             for (int i = 0; i < temp.length; i++) {
                 System.out.print(temp[i]+"\t");
             }
+            System.out.println();
         }
         for (int i = 0; i <N; i++) {
             if (feasible(t,i,bo)){
