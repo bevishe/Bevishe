@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo24.java" afterDir="false" />
+    <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="周五">
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/net/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/net/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/net/img/figure1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/Demo22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/Demo22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/NQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cqupt/net/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/net/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cqupt/net/网络编程笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/net/网络编程笔记.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +90,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo23">
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.net.Client" />
+      <module name="Bevishe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cqupt.net.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.Demo22" />
       <module name="Bevishe" />
@@ -116,19 +130,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NQueen2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.NQueen2" />
-      <module name="Bevishe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.NQueens" />
       <module name="Bevishe" />
@@ -142,28 +143,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.net.Server" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.junitTest.*" />
+          <option name="PATTERN" value="com.cqupt.net.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cqupt.junitTest" />
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.junitTest.CalculatorTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
         <item itemvalue="Application.Demo23" />
         <item itemvalue="Application.Demo22" />
         <item itemvalue="Application.NQueens" />
-        <item itemvalue="Application.NQueen2" />
-        <item itemvalue="JUnit.CalculatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -190,6 +189,9 @@
       <workItem from="1574079996502" duration="59431000" />
       <workItem from="1574403422921" duration="5782000" />
       <workItem from="1574431980533" duration="21000" />
+      <workItem from="1574432750270" duration="530000" />
+      <workItem from="1574589192135" duration="68000" />
+      <workItem from="1574589281559" duration="6160000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础语法">
       <created>1570362270044</created>
@@ -254,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574256468086</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="周五">
+      <created>1574432838050</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1574432838050</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +291,8 @@
     <MESSAGE value="11.19周二&#10;转换流，输出流，Junit单元测试" />
     <MESSAGE value="11.19周二&#10;该八皇后的代码结果是重复的，尚未找到bug点" />
     <MESSAGE value="11.20周三&#10;改正了N皇后中的bug，&#10;1.在对遍历棋子的位置时，不应该对每一个棋子都遍历棋盘，而是第一个放入的就遍历棋盘的第一行，第二放入的就遍历第二行，否则会有很多重复的&#10;2.在对棋子位置是否有效进行判断的时候需要在对整个斜边的判断是代码中的有错误，理解的有问题，只是对挨着的斜边位置进行判断，题目是同行，同列，同斜边都不可以放置其他的皇后" />
-    <option name="LAST_COMMIT_MESSAGE" value="11.20周三&#10;改正了N皇后中的bug，&#10;1.在对遍历棋子的位置时，不应该对每一个棋子都遍历棋盘，而是第一个放入的就遍历棋盘的第一行，第二放入的就遍历第二行，否则会有很多重复的&#10;2.在对棋子位置是否有效进行判断的时候需要在对整个斜边的判断是代码中的有错误，理解的有问题，只是对挨着的斜边位置进行判断，题目是同行，同列，同斜边都不可以放置其他的皇后" />
+    <MESSAGE value="周五" />
+    <option name="LAST_COMMIT_MESSAGE" value="周五" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
