@@ -12,17 +12,9 @@ public class Demo24 {
     * */
     public ListNode swapPairs(ListNode head){
         if(head.next ==null) return head;
-        //
-        ListNode first,second,third,newHead = head.next;
-        first = head;
-        while(first.next!=null){
-            second = first.next;
-            third = second.next;
-            if(third==null){
 
-            }
 
-        }
+
         return head;
     }
 

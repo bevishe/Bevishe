@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="周五">
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/net/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/net/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/net/img/figure1.png" afterDir="false" />
+    <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/net/UpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/net/UpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/net/local/local.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/net/net/up.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/newJdk8/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/newJdk8/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/newJdk8/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/newJdk8/Demo4Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/newJdk8/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/newJdk8/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/newJdk8/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/newJdk8/Demo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/newJdk8/MessageInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/newJdk8/MyFunctionInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/newJdk8/java8中的新特性笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/behaviorType/factory1/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/设计模式笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/Demo1_byte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/Demo2_equal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/img/常量池大小.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/错题.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cqupt/net/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/net/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cqupt/net/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/net/Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/cqupt/net/网络编程笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/net/网络编程笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/Demo24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/Demo24.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,13 +110,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.net.Client" />
+  <component name="RunManager" selected="Application.Demo2_equal">
+    <configuration name="Demo1_byte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nowcoder.Demo1_byte" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.net.*" />
+          <option name="PATTERN" value="com.nowcoder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.Demo22" />
+    <configuration name="Demo2_equal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nowcoder.Demo2_equal" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.*" />
+          <option name="PATTERN" value="com.nowcoder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.Demo23" />
+    <configuration name="Demo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.newJdk8.Demo6" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.*" />
+          <option name="PATTERN" value="com.cqupt.newJdk8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.NQueens" />
+    <configuration name="Demo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.newJdk8.Demo7" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.*" />
+          <option name="PATTERN" value="com.cqupt.newJdk8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.net.Server" />
+    <configuration name="Demo8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.newJdk8.Demo8" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.net.*" />
+          <option name="PATTERN" value="com.cqupt.newJdk8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Server" />
-        <item itemvalue="Application.Demo23" />
-        <item itemvalue="Application.Demo22" />
-        <item itemvalue="Application.NQueens" />
+        <item itemvalue="Application.Demo2_equal" />
+        <item itemvalue="Application.Demo1_byte" />
+        <item itemvalue="Application.Demo7" />
+        <item itemvalue="Application.Demo8" />
+        <item itemvalue="Application.Demo6" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +211,9 @@
       <workItem from="1574431980533" duration="21000" />
       <workItem from="1574432750270" duration="530000" />
       <workItem from="1574589192135" duration="68000" />
-      <workItem from="1574589281559" duration="6160000" />
+      <workItem from="1574589281559" duration="9900000" />
+      <workItem from="1574780071401" duration="17973000" />
+      <workItem from="1575378541983" duration="2878000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础语法">
       <created>1570362270044</created>
@@ -263,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574432838050</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="周天，网络编程socket">
+      <created>1574605844214</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1574605844214</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,7 +321,8 @@
     <MESSAGE value="11.19周二&#10;该八皇后的代码结果是重复的，尚未找到bug点" />
     <MESSAGE value="11.20周三&#10;改正了N皇后中的bug，&#10;1.在对遍历棋子的位置时，不应该对每一个棋子都遍历棋盘，而是第一个放入的就遍历棋盘的第一行，第二放入的就遍历第二行，否则会有很多重复的&#10;2.在对棋子位置是否有效进行判断的时候需要在对整个斜边的判断是代码中的有错误，理解的有问题，只是对挨着的斜边位置进行判断，题目是同行，同列，同斜边都不可以放置其他的皇后" />
     <MESSAGE value="周五" />
-    <option name="LAST_COMMIT_MESSAGE" value="周五" />
+    <MESSAGE value="周天，网络编程socket" />
+    <option name="LAST_COMMIT_MESSAGE" value="周天，网络编程socket" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

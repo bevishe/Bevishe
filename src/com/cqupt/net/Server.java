@@ -41,6 +41,7 @@ public class Server {
         } catch (IOException e) {
             e.printStackTrace();
         }finally {
+            // 关闭socket和serverSocket
             try {
                 socket.close();
                 serverSocket.close();
