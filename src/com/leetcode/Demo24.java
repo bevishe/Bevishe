@@ -1,5 +1,7 @@
 package com.leetcode;
 
+import java.util.List;
+
 public class Demo24 {
 
 
@@ -11,11 +13,15 @@ public class Demo24 {
     *
     * */
     public ListNode swapPairs(ListNode head){
-        if(head.next ==null) return head;
+        // 递归终止条件
+        if(head==null || head.next ==null){
+            return head;
+        }
 
-
-
-        return head;
+        ListNode next = head.next;
+        head.next = swapPairs(next);
+        next.next = head;
+        return next;
     }
 
 

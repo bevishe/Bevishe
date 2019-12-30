@@ -52,4 +52,28 @@ class ListNode{
 
 
     ListNode(int x){val =x;}
+
+    public ListNode addNode(ListNode node){
+        // 将元素追加到this节点的为head的链表上面
+        ListNode temp = this;
+        if(temp == null) temp = node;
+        if(temp.next==null) temp.next = node;
+        else{
+            while(temp.next!=null){
+                temp = temp.next; }
+            temp.next = node;
+        }
+        return this;
+    }
+
+    @Override
+    public String toString() {
+        StringBuilder stringBuilder = new StringBuilder();
+        ListNode tempNode = this;
+        while(tempNode!=null){
+            stringBuilder.append(String.valueOf(tempNode.val) + "--");
+            tempNode = tempNode.next;
+        }
+        return stringBuilder.toString();
+    }
 }
