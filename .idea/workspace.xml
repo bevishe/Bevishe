@@ -2,34 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bevis/util/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bevis/util/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bevis/util/无标题.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/cookie/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/cookie/cookie.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/newJdk8/Demo10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/newJdk8/Demo9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/stream/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/stream/Demo2_Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/stream/Demo2_Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/stream/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/stream/Demo4_Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/stream/Demo5_Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/stream/Demo6_Limit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/stream/Demo7_Skip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/stream/Demo8_Concat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/stream/Demo9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/stream/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dataStructure/数据结构笔记.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/Demo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/Demo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/ArrayBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/ConstructorMethodPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Greetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/MethodRerObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Richable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/StaticMethodRerObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/ThisMethodReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/方法引用笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thinkInJava/chapter7/Soap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cqupt/newJdk8/java8中的新特性笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/newJdk8/java8中的新特性笔记.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/Demo19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/Demo19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/Demo24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/Demo24.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +92,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.statistic.project.settings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -118,13 +111,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo9">
-    <configuration name="Demo5_Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.stream.Demo5_Count" />
+  <component name="RunManager" selected="Application.Demo7">
+    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.function.Demo3" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.stream.*" />
+          <option name="PATTERN" value="com.cqupt.function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo6_Limit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.stream.Demo6_Limit" />
+    <configuration name="Demo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.function.Demo6" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.stream.*" />
+          <option name="PATTERN" value="com.cqupt.function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo7_Skip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.stream.Demo7_Skip" />
+    <configuration name="Demo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.function.Demo7" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.stream.*" />
+          <option name="PATTERN" value="com.cqupt.function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo8_Concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.stream.Demo8_Concat" />
+    <configuration name="ThisMethodReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.function.ThisMethodReference" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.stream.*" />
+          <option name="PATTERN" value="com.cqupt.function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.stream.Demo9" />
+    <configuration name="Zi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.function.Zi" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.stream.*" />
+          <option name="PATTERN" value="com.cqupt.function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo9" />
-        <item itemvalue="Application.Demo8_Concat" />
-        <item itemvalue="Application.Demo7_Skip" />
-        <item itemvalue="Application.Demo6_Limit" />
-        <item itemvalue="Application.Demo5_Count" />
+        <item itemvalue="Application.Demo7" />
+        <item itemvalue="Application.Demo6" />
+        <item itemvalue="Application.ThisMethodReference" />
+        <item itemvalue="Application.Demo3" />
+        <item itemvalue="Application.Zi" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +219,8 @@
       <workItem from="1575774438707" duration="2222000" />
       <workItem from="1576380425353" duration="10564000" />
       <workItem from="1576846645086" duration="36157000" />
-      <workItem from="1577601460952" duration="9340000" />
+      <workItem from="1577601460952" duration="18498000" />
+      <workItem from="1577777283886" duration="10405000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础语法">
       <created>1570362270044</created>
@@ -312,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575382325593</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="jdk1.8之后的Stream流对象，链式编程">
+      <created>1577713238342</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1577713238343</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,7 +344,8 @@
     <MESSAGE value="周五" />
     <MESSAGE value="周天，网络编程socket" />
     <MESSAGE value="socket编程和使用Lambda，已经添加了牛客网刷题的错误问题，在nowcoder文件夹中" />
-    <option name="LAST_COMMIT_MESSAGE" value="socket编程和使用Lambda，已经添加了牛客网刷题的错误问题，在nowcoder文件夹中" />
+    <MESSAGE value="jdk1.8之后的Stream流对象，链式编程" />
+    <option name="LAST_COMMIT_MESSAGE" value="jdk1.8之后的Stream流对象，链式编程" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
