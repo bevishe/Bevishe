@@ -2,27 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/ArrayBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/ConstructorMethodPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Demo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Demo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Demo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Fu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Greetable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/MethodRerObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Richable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/StaticMethodRerObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/ThisMethodReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/Zi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/function/方法引用笔记.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thinkInJava/chapter7/Soap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_48_bin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/mysql-connector-java-5.1.48-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jdbc/Demo1_Jdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jdbc/Demo2_DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jdbc/Demo3_Connection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jdbc/jdbc笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mysql/img/figure1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mysql/img/figure2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mysql/img/figure3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mysql/img/figure4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mysql/img/figure5.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bevishe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Bevishe.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/Demo25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/Demo25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mysql/数据库相关知识笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mysql/数据库相关知识笔记.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,6 +90,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVAHOME\Bevishe\libs" />
       <recent name="D:\JAVAHOME\Bevishe\src\com\bevis\util" />
     </key>
   </component>
@@ -111,13 +106,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo7">
-    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.function.Demo3" />
+  <component name="RunManager" selected="Application.Demo3_Connection">
+    <configuration name="Demo1_Jdbc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jdbc.Demo1_Jdbc" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.function.*" />
+          <option name="PATTERN" value="com.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.Demo25" />
+      <module name="Bevishe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo3_Connection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jdbc.Demo3_Connection" />
+      <module name="Bevishe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,39 +172,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThisMethodReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.function.ThisMethodReference" />
-      <module name="Bevishe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cqupt.function.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.function.Zi" />
-      <module name="Bevishe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cqupt.function.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo3_Connection" />
+        <item itemvalue="Application.Demo1_Jdbc" />
+        <item itemvalue="Application.Demo25" />
         <item itemvalue="Application.Demo7" />
         <item itemvalue="Application.Demo6" />
-        <item itemvalue="Application.ThisMethodReference" />
-        <item itemvalue="Application.Demo3" />
-        <item itemvalue="Application.Zi" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +215,8 @@
       <workItem from="1576380425353" duration="10564000" />
       <workItem from="1576846645086" duration="36157000" />
       <workItem from="1577601460952" duration="18498000" />
-      <workItem from="1577777283886" duration="10405000" />
+      <workItem from="1577777283886" duration="39028000" />
+      <workItem from="1578661738482" duration="21523000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础语法">
       <created>1570362270044</created>
@@ -313,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577713238343</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="方法引用的使用">
+      <created>1577860650450</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1577860650450</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -345,7 +348,8 @@
     <MESSAGE value="周天，网络编程socket" />
     <MESSAGE value="socket编程和使用Lambda，已经添加了牛客网刷题的错误问题，在nowcoder文件夹中" />
     <MESSAGE value="jdk1.8之后的Stream流对象，链式编程" />
-    <option name="LAST_COMMIT_MESSAGE" value="jdk1.8之后的Stream流对象，链式编程" />
+    <MESSAGE value="方法引用的使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="方法引用的使用" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
