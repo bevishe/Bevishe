@@ -7,6 +7,7 @@ public class Demo5_Calculator {
             return a+b;
         });
     }
+
     public static void method(int a,int b,Calculator calculator){
         int c;
         c = calculator.calcu(a,b);
