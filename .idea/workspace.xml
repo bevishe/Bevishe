@@ -2,21 +2,271 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_48_bin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/mysql-connector-java-5.1.48-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jdbc/Demo1_Jdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jdbc/Demo2_DriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jdbc/Demo3_Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jdbc/jdbc笔记.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mysql/img/figure1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mysql/img/figure2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mysql/img/figure3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mysql/img/figure4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mysql/img/figure5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/bevis/util/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/bevis/util/Solution1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/bevis/util/无标题.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/bufferedStream/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/bufferedStream/Demo2_FileInputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/bufferedStream/Demo3_FileWrite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/bufferedStream/Demo4_FileReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/bufferedStream/Demo5_FileSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/bufferedStream/copy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/bufferedStream/img/figure1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/bufferedStream/io.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/bufferedStream/task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/bufferedStream/缓冲流笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/cookie/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/cookie/cookie.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/file/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/file/Demo2_File.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/file/Demo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/file/Demo3_Is.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/file/Demo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/file/Demo5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/file/img/figure2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/file/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/file/文件笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/fileFilter/Demo1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/fileFilter/Demo1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/fileFilter/Demo1$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/fileFilter/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/function/ArrayBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/function/ConstructorMethodPerson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/function/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/function/Demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/function/Demo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/function/Demo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/function/Demo5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/function/Demo6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/function/Demo7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/function/Fu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/function/Greetable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/function/MethodRerObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/function/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/function/Printable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/function/Richable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/function/StaticMethodRerObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/function/ThisMethodReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/function/Zi$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/function/Zi$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/function/Zi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/function/方法引用笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/ioByteStream/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/ioByteStream/Demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/ioByteStream/Demo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/ioByteStream/Demo4_InputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/ioByteStream/Demo5_FileInputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/ioByteStream/Demo6_FileCopy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/ioByteStream/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/ioByteStream/img/figure1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/ioByteStream/img/figure2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/ioByteStream/io.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/ioByteStream/io字节流.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/ioCharStream/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/ioCharStream/Demo2_FileWrite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/ioCharStream/Demo3_FlushClose.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/ioCharStream/Demo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/ioCharStream/img/figure1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/ioCharStream/img/figure2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/ioCharStream/io.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/ioCharStream/io字符流笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/junit/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/junit/CalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/junit/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/junit/单元测试笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/junitTest/CalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/lambda/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/lambda/Cook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/lambda/Demo1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/lambda/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/lambda/Demo2_Lambda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/lambda/Demo3_Cook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/lambda/Demo4_Person$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/lambda/Demo4_Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/lambda/Demo5_Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/lambda/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/lambda/RunableImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/lambda/img/figure1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/lambda/lambda表达式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/list/Demo5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/list/Demo6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/list/MyContainer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/list/MyContainer$itr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/list/MyContainer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/net/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/net/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/net/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/net/UpClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/net/UpServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/net/img/figure1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/net/local/local.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/net/net/up.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/net/网络编程笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/newJdk8/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/newJdk8/Demo10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/newJdk8/Demo2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/newJdk8/Demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/newJdk8/Demo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/newJdk8/Demo4Logger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/newJdk8/Demo5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/newJdk8/Demo6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/newJdk8/Demo7$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/newJdk8/Demo7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/newJdk8/Demo8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/newJdk8/Demo9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/newJdk8/MessageInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/newJdk8/MyFunctionInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/newJdk8/java8中的新特性笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/printStream/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/printStream/Demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/printStream/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/printStream/print.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/properties/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/properties/img/figure1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/properties/properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/properties/properties的笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/recursive/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/recursive/Demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/recursive/Demo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/recursive/Demo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/recursive/img/figure1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/recursive/img/figure2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/recursive/递归的笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/reflaction/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/reflaction/img/figure1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/reflaction/反射笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/serialize/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/serialize/Demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/serialize/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/serialize/arrayList.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/serialize/img/figure1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/serialize/person.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/serialize/序列化笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/stream/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/stream/Demo2_Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/stream/Demo2_Filter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/stream/Demo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/stream/Demo4_Map.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/stream/Demo5_Count.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/stream/Demo6_Limit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/stream/Demo7_Skip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/stream/Demo8_Concat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/stream/Demo9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/stream/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/thread/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/thread/Demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/thread/Demo3_MainThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/thread/Demo4_Thread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/thread/Demo5_Thread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/thread/Demo6_ThreadMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/thread/Demo7_Sleep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/thread/Demo8_Thread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/thread/Demo9_ThreadRunable$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/thread/Demo9_ThreadRunable$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/thread/Demo9_ThreadRunable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/thread/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/thread/MyThread1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/thread/MyThread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/thread/MyThreadRunable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/thread/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadPool/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadPool/Demo2_RunabelImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadPool/img/figure1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadPool/img/figure2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadPool/img/figure3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadPool/img/figure4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadPool/线程池.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadSafe/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadSafe/Demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadSafe/Demo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadSafe/RunableImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadSafe/RunableImpl2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadSafe/RunableImpl3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadSafe/SafeThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadSafe/SafeThread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadState/BaoZi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadState/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadState/Demo1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadState/Demo1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadState/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadState/Demo2_WaitAndNotify$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadState/Demo2_WaitAndNotify$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadState/Demo2_WaitAndNotify$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadState/Demo2_WaitAndNotify.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadState/Demo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadState/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadState/Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadState/img/figure1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadState/img/figure2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadState/img/figure3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadState/img/figure4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadState/进程状态.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/transformStream/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/transformStream/Demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/transformStream/Demo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/transformStream/Demo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/transformStream/gbk.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/transformStream/img/figure1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/transformStream/img/figure2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/transformStream/系统.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/transformStream/转换流笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/dataStructure/数据结构笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/designPatterns/behaviorType/factory1/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/designPatterns/设计模式笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/jdbc/Demo1_Jdbc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/jdbc/Demo2_DriverManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/jdbc/Demo3_Connection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/jdbc/jdbc笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/Demo16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/Demo18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/Demo19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/Demo21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/Demo22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/Demo23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/Demo24.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/Demo25.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/NQueen2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/NQueens.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/mysql/img/figure1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/mysql/img/figure2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/mysql/img/figure3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/mysql/数据库相关知识笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/nowcoder/Demo$Sub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/nowcoder/Demo$Super.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/nowcoder/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/nowcoder/Demo1_byte.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/nowcoder/Demo2_equal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/nowcoder/Demo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/nowcoder/Demo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/nowcoder/Demo4_1$Sub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/nowcoder/Demo4_1$Super.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/nowcoder/Demo4_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/nowcoder/Demo5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/nowcoder/Demo6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/nowcoder/Demo7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/nowcoder/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/nowcoder/img/常量池大小.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/nowcoder/错题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter7/Soap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/ioCharStream/img/figure1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/ioCharStream/img/figure2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/threadState/img/figure3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/threadState/img/figure4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/DemoNow38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/DemoNow39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/DemoNow40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/DemoNow41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/DemoNow42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/DemoNow43_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/coderAlgo/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/coderAlgo/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/coderAlgo/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/coderAlgo/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/coderAlgo/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/coderAlgo/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/redis/redis简介.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bevishe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Bevishe.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/Demo25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/Demo25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mysql/数据库相关知识笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mysql/数据库相关知识笔记.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +356,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo3_Connection">
+  <component name="RunManager" selected="Application.Demo6">
     <configuration name="Demo1_Jdbc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jdbc.Demo1_Jdbc" />
       <module name="Bevishe" />
@@ -146,12 +396,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.function.Demo6" />
+    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.coderAlgo.Demo4" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.function.*" />
+          <option name="PATTERN" value="com.leetcode.coderAlgo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +409,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.function.Demo7" />
+    <configuration name="Demo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.coderAlgo.Demo6" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.function.*" />
+          <option name="PATTERN" value="com.leetcode.coderAlgo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,11 +424,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo6" />
+        <item itemvalue="Application.Demo4" />
         <item itemvalue="Application.Demo3_Connection" />
         <item itemvalue="Application.Demo1_Jdbc" />
         <item itemvalue="Application.Demo25" />
-        <item itemvalue="Application.Demo7" />
-        <item itemvalue="Application.Demo6" />
       </list>
     </recent_temporary>
   </component>
@@ -217,6 +467,10 @@
       <workItem from="1577601460952" duration="18498000" />
       <workItem from="1577777283886" duration="39028000" />
       <workItem from="1578661738482" duration="21523000" />
+      <workItem from="1579350620110" duration="119000" />
+      <workItem from="1589682777023" duration="11472000" />
+      <workItem from="1589761791506" duration="461000" />
+      <workItem from="1589768367064" duration="16147000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础语法">
       <created>1570362270044</created>
@@ -316,7 +570,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577860650450</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="2020-1-19:寒假开始，台式机体提交版本">
+      <created>1579350745225</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1579350745225</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,7 +610,8 @@
     <MESSAGE value="socket编程和使用Lambda，已经添加了牛客网刷题的错误问题，在nowcoder文件夹中" />
     <MESSAGE value="jdk1.8之后的Stream流对象，链式编程" />
     <MESSAGE value="方法引用的使用" />
-    <option name="LAST_COMMIT_MESSAGE" value="方法引用的使用" />
+    <MESSAGE value="2020-1-19:寒假开始，台式机体提交版本" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-1-19:寒假开始，台式机体提交版本" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -358,6 +620,14 @@
           <url>file://$PROJECT_DIR$/src/com/leetcode/Demo22.java</url>
           <line>48</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/coderAlgo/Demo6.java</url>
+          <line>8</line>
+          <properties class="com.leetcode.coderAlgo.Demo6" method="compressString">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
