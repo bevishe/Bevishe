@@ -1,25 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mysql/img/figure10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mysql/img/figure11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mysql/img/figure12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mysql/img/figure13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mysql/img/figure14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mysql/img/figure15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mysql/img/figure6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mysql/img/figure7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mysql/img/figure8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mysql/img/figure9.png" afterDir="false" />
+    <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/regex/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaScript/ecmaScript/cnblogs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaScript/ecmaScript/demo1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaScript/ecmaScript/demo2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaScript/ecmaScript/demo3_typeof.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaScript/ecmaScript/demo4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaScript/ecmaScript/demo5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaScript/ecmaScript/img/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaScript/ecmaScript/img/open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaScript/ecmaScript/js1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaScript/javaScript笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jvm/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jvm/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jvm/DiffClassLoaderLoadingPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jvm/FinalizeGCEscape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jvm/javaVMStackSOF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo109.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo144.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo145.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo174.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo226.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo236.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo279.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo300.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo343.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo617.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo71.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo_Dpmeituan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo_TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo10_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo14_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo14_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo32_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo32_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo32_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo53_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo55_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo55_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo56_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo56_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo57_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo57_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo58_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo58_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo59_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo68_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo_IntChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Dmeo10_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/Demo120.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/Demo198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/Demo1_DP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/Demo2_Dp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/Demo322.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/Demo53.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bevishe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Bevishe.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/file/Demo5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/file/Demo5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/lambda/Demo5_Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/lambda/Demo5_Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/recursive/Demo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/recursive/Demo4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cqupt/recursive/Demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/recursive/Demo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/swordOffer/demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/swordOffer/demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/mysql/数据库相关知识笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mysql/数据库相关知识笔记.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,6 +144,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="Class" />
       </list>
     </option>
@@ -65,6 +162,7 @@
   </component>
   <component name="ProjectId" id="1RM5xYzxsgVpcmwxmGwkaitAMZb" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
@@ -72,6 +170,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/javaScript" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -80,10 +179,16 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA_HOME\Bevishe\src\com\javaScript" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -97,48 +202,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.demo4">
-    <configuration name="Demo18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.Demo18" />
-      <module name="Bevishe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.Demo22" />
-      <module name="Bevishe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.recursive.Demo4" />
-      <module name="Bevishe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cqupt.recursive.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.swordOffer.demo3" />
+  <component name="RunManager" selected="Application.Demo30">
+    <configuration name="Demo30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.swordOffer.Demo30" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
@@ -150,8 +216,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.swordOffer.demo4" />
+    <configuration name="Demo43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.swordOffer.Demo43" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
@@ -163,13 +229,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.swordOffer.Demo44" />
+      <module name="Bevishe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.swordOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.swordOffer.Demo45" />
+      <module name="Bevishe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.swordOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.swordOffer.Demo46" />
+      <module name="Bevishe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.swordOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Demo46" />
+      <item itemvalue="Application.Demo45" />
+      <item itemvalue="Application.Demo44" />
+      <item itemvalue="Application.Demo43" />
+      <item itemvalue="Application.Demo30" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.demo4" />
-        <item itemvalue="Application.demo3" />
-        <item itemvalue="Application.Demo22" />
-        <item itemvalue="Application.Demo4" />
-        <item itemvalue="Application.Demo18" />
+        <item itemvalue="Application.Demo30" />
+        <item itemvalue="Application.Demo43" />
+        <item itemvalue="Application.Demo44" />
+        <item itemvalue="Application.Demo45" />
+        <item itemvalue="Application.Demo46" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +305,25 @@
       <workItem from="1580219688207" duration="2211000" />
       <workItem from="1580365349684" duration="9770000" />
       <workItem from="1580875811572" duration="8453000" />
-      <workItem from="1581501052046" duration="23918000" />
+      <workItem from="1581501052046" duration="26278000" />
+      <workItem from="1581747074794" duration="99728000" />
+      <workItem from="1582975777329" duration="30665000" />
+      <workItem from="1583292152009" duration="24477000" />
+      <workItem from="1583746564864" duration="5008000" />
+      <workItem from="1584280394204" duration="1931000" />
+      <workItem from="1584437494236" duration="170697000" />
+      <workItem from="1586135134184" duration="102943000" />
+      <workItem from="1586682999940" duration="18330000" />
+      <workItem from="1587020184558" duration="10619000" />
+      <workItem from="1587216406992" duration="4706000" />
+      <workItem from="1587471483565" duration="438000" />
+      <workItem from="1587478811462" duration="9431000" />
+      <workItem from="1587642696163" duration="19270000" />
+      <workItem from="1588240997118" duration="35529000" />
+      <workItem from="1589010510166" duration="12953000" />
+      <workItem from="1589335747582" duration="7190000" />
+      <workItem from="1589506869759" duration="3248000" />
+      <workItem from="1589851414461" duration="208000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础语法">
       <created>1570362270044</created>
@@ -237,7 +367,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579758659863</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="剑指offer第一天">
+      <created>1581660820732</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1581660820732</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,7 +397,54 @@
     <MESSAGE value="完成基础语法" />
     <MESSAGE value="Api(System,Calendar,Date,StringBuilder)" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="剑指offer第一天" />
+    <option name="LAST_COMMIT_MESSAGE" value="剑指offer第一天" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo7.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/swordOffer/Dmeo10_2.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/swordOffer/Dmeo10_2.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/nowcoder/Demo322.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/Demo29.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo62.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo44.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo30.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Bevishe$Demo1_Multi.ic" NAME="Demo1_Multi Coverage Results" MODIFIED="1570801837981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

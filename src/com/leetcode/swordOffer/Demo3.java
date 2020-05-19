@@ -10,7 +10,7 @@ import java.util.Collections;
  * @Date 2020/2/14 11:44
  * @Created by Administrator
  */
-public class demo3 {
+public class Demo3 {
 
     /**
      *  在一个长度为 n 的数组 nums 里的所有数字都在 0～n-1 的范围内。
