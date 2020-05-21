@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        alert("这是alert警告")
+        window.alert("这是window.alert警告")
+
+        // 这是控制台的消息
+        console.log("这是给控制台的消息日志")
+    </script>
+
+</head>
+<body>
+
+
+// js代码
+    <script>
+        var num = 1;
+        document.write(num+"<br>");
+        document.write(typeof(num));
+
+        // 分割线
+        document.write("<hr>")
+            // 比较运算符
+            var a = 1;
+            var b = 2;
+            document.write(a<b);
+    </script>
+
+    <p id="demo">之前的demo内容</p>
+    <script>
+        function method() {
+            document.getElementById("demo").innerHTML = "点击之后用js改变的内容";
+        }
+    </script>
+
+    <button type="button" onclick="method()">点击改变内容！</button>
+
+
+    // 开关灯的js代码
+    <script>
+        function openLight() {
+            document.getElementById("light").src="./img/open.png";
+        }
+
+        function closeLight() {
+            document.getElementById("light").src="./img/close.png";
+        }
+
+
+    </script>
+    // 使用外部的js
+    <script  src="./js1.js"></script>
+
+    <img id="light" src="./img/close.png">
+    <button type="button" onclick="openLight()">开灯</button>
+    <button type="button" onclick="closeLight()">关灯</button>
+    <button type="button" onclick="outMethod()">使用外部js的函数开灯</button>
+    <hr>
+
+    <p>数据类型</p>
+    <script>
+        var x = 123;
+        var y = "abc";
+        y = y + x;
+        document.write("x+y=" + y+"<br>");
+        var undefined;
+        document.write("'undefined:"+typeof(undefined)+"<br>");
+
+        // undefined和null值相同，但是数据类型不同
+        var xNll = null;
+        document.write("null和undefined数据类型"+(typeof undefined === typeof xNll)+"<br>");
+        document.write("null和undefined数值"+(undefined==xNll)+"<br>");
+
+        // js中创建使用对象
+        document.write("<hr>");
+        var person = {
+            name : "bevis",
+            age : 12,
+
+            sing:function(yourName){
+                alert(this.name + "开始唱歌<br>");
+
+            },
+
+            speak:function(){
+                alert(this.name+"开始说话！")
+            }
+
+        };
+
+        person.sing("bevis");
+        person.speak();
+
+        // 定义function对象
+        // 1.方法1
+        var fun1 = new Function("a","b","alert(a);") ;
+        fun1(1,2);
+        // 2.方法2
+        // function 方法名称（参数列表）{
+        //     方法体；
+        // }
+        function f2(a, b) {
+            alert(a);
+        }
+
+
+
+    </script>
+
+</body>
+</html>

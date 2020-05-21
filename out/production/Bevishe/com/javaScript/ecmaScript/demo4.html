@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>js练习</title>
+</head>
+<body>
+
+    <script>
+        function speak() {
+            document.getElementById("demo").innerHTML = Date();
+        }
+
+        function out() {
+            document.getElementById("demo").innerHTML = "请把鼠标移动过来";
+        }
+
+        function speakToYou() {
+            document.getElementById("demo").innerHTML = "你要干啥？"
+        }
+    </script>
+
+    <p id="demo" onmouseover="speak()" onmouseout="out()" onclick="speakToYou()">
+        今天是个好日子
+    </p>
+</body>
+</html>
