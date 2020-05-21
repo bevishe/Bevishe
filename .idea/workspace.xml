@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="">
-<<<<<<< HEAD
-=======
       <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/bevis/util/Demo1.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/bevis/util/Solution1.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/bevis/util/无标题.txt" afterDir="false" />
@@ -268,7 +266,6 @@
       <change afterPath="$PROJECT_DIR$/src/com/leetcode/coderAlgo/Demo5.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/leetcode/coderAlgo/Demo6.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/redis/redis简介.md" afterDir="false" />
->>>>>>> dbb27e4812b348119ec57737d7df68b737949ab3
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -301,8 +298,6 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="Class" />
       </list>
     </option>
@@ -320,11 +315,7 @@
   </component>
   <component name="ProjectId" id="1RM5xYzxsgVpcmwxmGwkaitAMZb" />
   <component name="PropertiesComponent">
-<<<<<<< HEAD
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-=======
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
->>>>>>> dbb27e4812b348119ec57737d7df68b737949ab3
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
@@ -333,11 +324,7 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-<<<<<<< HEAD
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/javaScript" />
-=======
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
->>>>>>> dbb27e4812b348119ec57737d7df68b737949ab3
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -346,17 +333,6 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-<<<<<<< HEAD
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\JAVA_HOME\Bevishe\src\com\javaScript" />
-=======
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -366,7 +342,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\JAVAHOME\Bevishe\libs" />
       <recent name="D:\JAVAHOME\Bevishe\src\com\bevis\util" />
->>>>>>> dbb27e4812b348119ec57737d7df68b737949ab3
     </key>
   </component>
   <component name="RunDashboard">
@@ -381,15 +356,6 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.Demo30">
-    <configuration name="Demo30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.swordOffer.Demo30" />
-      <module name="Bevishe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.swordOffer.*" />
-=======
   <component name="RunManager" selected="Application.Demo6">
     <configuration name="Demo1_Jdbc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jdbc.Demo1_Jdbc" />
@@ -397,7 +363,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.jdbc.*" />
->>>>>>> dbb27e4812b348119ec57737d7df68b737949ab3
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -405,17 +370,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="Demo43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.swordOffer.Demo43" />
-=======
     <configuration name="Demo25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.Demo25" />
->>>>>>> dbb27e4812b348119ec57737d7df68b737949ab3
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.swordOffer.*" />
+          <option name="PATTERN" value="com.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -423,21 +383,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="Demo44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.swordOffer.Demo44" />
-      <module name="Bevishe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.swordOffer.*" />
-=======
     <configuration name="Demo3_Connection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jdbc.Demo3_Connection" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.jdbc.*" />
->>>>>>> dbb27e4812b348119ec57737d7df68b737949ab3
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -445,13 +396,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="Demo45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.swordOffer.Demo45" />
-=======
     <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.coderAlgo.Demo4" />
->>>>>>> dbb27e4812b348119ec57737d7df68b737949ab3
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
@@ -463,13 +409,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="Demo46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.swordOffer.Demo46" />
-=======
     <configuration name="Demo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.coderAlgo.Demo6" />
->>>>>>> dbb27e4812b348119ec57737d7df68b737949ab3
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
@@ -481,28 +422,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.Demo46" />
-      <item itemvalue="Application.Demo45" />
-      <item itemvalue="Application.Demo44" />
-      <item itemvalue="Application.Demo43" />
-      <item itemvalue="Application.Demo30" />
-    </list>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-        <item itemvalue="Application.Demo30" />
-        <item itemvalue="Application.Demo43" />
-        <item itemvalue="Application.Demo44" />
-        <item itemvalue="Application.Demo45" />
-        <item itemvalue="Application.Demo46" />
-=======
         <item itemvalue="Application.Demo6" />
         <item itemvalue="Application.Demo4" />
         <item itemvalue="Application.Demo3_Connection" />
         <item itemvalue="Application.Demo1_Jdbc" />
         <item itemvalue="Application.Demo25" />
->>>>>>> dbb27e4812b348119ec57737d7df68b737949ab3
       </list>
     </recent_temporary>
   </component>
@@ -520,34 +446,6 @@
       <workItem from="1570626798413" duration="35438000" />
       <workItem from="1571296865245" duration="9652000" />
       <workItem from="1572439344163" duration="1800000" />
-<<<<<<< HEAD
-      <workItem from="1573474072360" duration="6105000" />
-      <workItem from="1573526336470" duration="1220000" />
-      <workItem from="1579758083396" duration="6719000" />
-      <workItem from="1580219688207" duration="2211000" />
-      <workItem from="1580365349684" duration="9770000" />
-      <workItem from="1580875811572" duration="8453000" />
-      <workItem from="1581501052046" duration="26278000" />
-      <workItem from="1581747074794" duration="99728000" />
-      <workItem from="1582975777329" duration="30665000" />
-      <workItem from="1583292152009" duration="24477000" />
-      <workItem from="1583746564864" duration="5008000" />
-      <workItem from="1584280394204" duration="1931000" />
-      <workItem from="1584437494236" duration="170697000" />
-      <workItem from="1586135134184" duration="102943000" />
-      <workItem from="1586682999940" duration="18330000" />
-      <workItem from="1587020184558" duration="10619000" />
-      <workItem from="1587216406992" duration="4706000" />
-      <workItem from="1587471483565" duration="438000" />
-      <workItem from="1587478811462" duration="9431000" />
-      <workItem from="1587642696163" duration="19270000" />
-      <workItem from="1588240997118" duration="35529000" />
-      <workItem from="1589010510166" duration="12953000" />
-      <workItem from="1589335747582" duration="7190000" />
-      <workItem from="1589506869759" duration="3248000" />
-      <workItem from="1589851414461" duration="208000" />
-      <workItem from="1589871478152" duration="1653000" />
-=======
       <workItem from="1573474072360" duration="317000" />
       <workItem from="1573542875132" duration="11125000" />
       <workItem from="1573739198738" duration="128000" />
@@ -573,7 +471,6 @@
       <workItem from="1589682777023" duration="11472000" />
       <workItem from="1589761791506" duration="461000" />
       <workItem from="1589768367064" duration="16147000" />
->>>>>>> dbb27e4812b348119ec57737d7df68b737949ab3
     </task>
     <task id="LOCAL-00001" summary="完成基础语法">
       <created>1570362270044</created>
@@ -673,16 +570,6 @@
       <option name="project" value="LOCAL" />
       <updated>1577860650450</updated>
     </task>
-<<<<<<< HEAD
-    <task id="LOCAL-00007" summary="剑指offer第一天">
-      <created>1581660820732</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1581660820732</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
-=======
     <task id="LOCAL-00015" summary="2020-1-19:寒假开始，台式机体提交版本">
       <created>1579350745225</created>
       <option name="number" value="00015" />
@@ -691,7 +578,6 @@
       <updated>1579350745225</updated>
     </task>
     <option name="localTasksCounter" value="16" />
->>>>>>> dbb27e4812b348119ec57737d7df68b737949ab3
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -714,11 +600,6 @@
     <MESSAGE value="完成基础语法" />
     <MESSAGE value="Api(System,Calendar,Date,StringBuilder)" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-<<<<<<< HEAD
-    <MESSAGE value="剑指offer第一天" />
-    <MESSAGE value="合并" />
-    <option name="LAST_COMMIT_MESSAGE" value="合并" />
-=======
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;添加了字节流和字符流的代码，已经属性集Properties集合代码" />
     <MESSAGE value="11.17周日&#10;缓冲流，leetcode中快慢指针，回溯法" />
     <MESSAGE value="11.19周二&#10;转换流，输出流，Junit单元测试" />
@@ -731,52 +612,11 @@
     <MESSAGE value="方法引用的使用" />
     <MESSAGE value="2020-1-19:寒假开始，台式机体提交版本" />
     <option name="LAST_COMMIT_MESSAGE" value="2020-1-19:寒假开始，台式机体提交版本" />
->>>>>>> dbb27e4812b348119ec57737d7df68b737949ab3
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-<<<<<<< HEAD
-          <url>file://$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo7.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/leetcode/swordOffer/Dmeo10_2.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/leetcode/swordOffer/Dmeo10_2.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/nowcoder/Demo322.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/leetcode/Demo29.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo62.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo44.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo30.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="20" />
-=======
           <url>file://$PROJECT_DIR$/src/com/leetcode/Demo22.java</url>
           <line>48</line>
           <option name="timeStamp" value="9" />
@@ -788,7 +628,6 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="11" />
->>>>>>> dbb27e4812b348119ec57737d7df68b737949ab3
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
