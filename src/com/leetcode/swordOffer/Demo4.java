@@ -6,7 +6,7 @@ package com.leetcode.swordOffer;
  * @Date 2020/2/14 12:49
  * @Created by Administrator
  */
-public class demo4 {
+public class Demo4 {
 
     //暴力解决
     public static boolean findNumberIn2DArray(int[][] matrix, int target) {
@@ -26,7 +26,6 @@ public class demo4 {
         if(n!=0) m = matrix[0].length;
         else return false;
 
-
         rN = 0;
         rM = m-1;
         if(rN>=n||rM<0) return false;
@@ -38,7 +37,6 @@ public class demo4 {
             else return true;
             root = matrix[rN][rM];
         }
-
 
     }
 
