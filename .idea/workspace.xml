@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/tree/Demo04_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/tree/Demo1002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/tree/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/tree/Demo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/tree/Demo530.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/tree/Demo538.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/tree/Demo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/tree/Demo8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/tree/Demo9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/tree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/question/UnsafeArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/mysql/数据库相关知识笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bevishe/com/mysql/数据库相关知识笔记.md" afterDir="false" />
-    </list>
+    <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +70,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.statistic.project.settings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -220,6 +206,7 @@
       <workItem from="1589761791506" duration="461000" />
       <workItem from="1589768367064" duration="43814000" />
       <workItem from="1589972224415" duration="6220000" />
+      <workItem from="1590108604959" duration="183000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础语法">
       <created>1570362270044</created>
@@ -333,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589789114074</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="2020-5-22台式机提交，tree相关">
+      <created>1590108694504</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1590108694504</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,7 +362,8 @@
     <MESSAGE value="方法引用的使用" />
     <MESSAGE value="2020-1-19:寒假开始，台式机体提交版本" />
     <MESSAGE value="2020-5-18台式机提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-5-18台式机提交" />
+    <MESSAGE value="2020-5-22台式机提交，tree相关" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-5-22台式机提交，tree相关" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
