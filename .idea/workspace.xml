@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/tree/Demo04_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/tree/Demo1367.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/tree/Demo572.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/tree/Demo96.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/recursive/Demo16_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/recursive/Demo687.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/recursive/REANME.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/work/day5_27/Demo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,7 +96,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo572">
+  <component name="RunManager" selected="Application.Demo16_11">
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.work.day5_24.Demo1" />
       <module name="Bevishe" />
@@ -123,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.regex.Demo2" />
+    <configuration name="Demo16_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.recursive.Demo16_11" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.regex.*" />
+          <option name="PATTERN" value="com.leetcode.recursive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.tree.Demo4" />
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.regex.Demo2" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.tree.*" />
+          <option name="PATTERN" value="com.cqupt.regex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo16_11" />
         <item itemvalue="Application.Demo572" />
         <item itemvalue="Application.Demo1" />
         <item itemvalue="Application.Demo1028" />
         <item itemvalue="Application.Demo2" />
-        <item itemvalue="Application.Demo4 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +212,7 @@
       <workItem from="1589761791506" duration="461000" />
       <workItem from="1589768367064" duration="43814000" />
       <workItem from="1589972224415" duration="6220000" />
-      <workItem from="1590108604959" duration="56104000" />
+      <workItem from="1590108604959" duration="67264000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础语法">
       <created>1570362270044</created>
@@ -347,7 +347,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590456560281</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="2020-5-26台式机晚上提交,">
+      <created>1590501726110</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1590501726110</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -385,7 +392,8 @@
     <MESSAGE value="2020-5-22台式机提交，tree相关" />
     <MESSAGE value="2020-5-22台式机提交,有笔记里面的图片没有add进来" />
     <MESSAGE value="2020-5-26台式机提交," />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-5-26台式机提交," />
+    <MESSAGE value="2020-5-26台式机晚上提交," />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-5-26台式机晚上提交," />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
