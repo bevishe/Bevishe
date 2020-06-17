@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/recursive/Demo16_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/recursive/Demo687.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/recursive/REANME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/work/day5_27/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/recursive/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/recursive/Demo8_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/traceback/Demo93.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/traceback/Demo89.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/traceback/Demo89.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/work/day5_27/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/work/day5_27/Demo1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,52 +97,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo16_11">
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.work.day5_24.Demo1" />
-      <module name="Bevishe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.work.day5_24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo1028" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.tree.Demo1028" />
-      <module name="Bevishe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Demo8_5">
     <configuration name="Demo16_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.recursive.Demo16_11" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.leetcode.recursive.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.regex.Demo2" />
-      <module name="Bevishe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cqupt.regex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,13 +124,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo8_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.recursive.Demo8_5" />
+      <module name="Bevishe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.recursive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo8_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.trackback.Demo8_8" />
+      <module name="Bevishe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.traceback.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo93" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.traceback.Demo93" />
+      <module name="Bevishe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.traceback.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo8_5" />
+        <item itemvalue="Application.Demo93" />
+        <item itemvalue="Application.Demo8_8" />
         <item itemvalue="Application.Demo16_11" />
         <item itemvalue="Application.Demo572" />
-        <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.Demo1028" />
-        <item itemvalue="Application.Demo2" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +213,9 @@
       <workItem from="1589761791506" duration="461000" />
       <workItem from="1589768367064" duration="43814000" />
       <workItem from="1589972224415" duration="6220000" />
-      <workItem from="1590108604959" duration="67264000" />
+      <workItem from="1590108604959" duration="68494000" />
+      <workItem from="1590677210986" duration="4514000" />
+      <workItem from="1591007046184" duration="37775000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础语法">
       <created>1570362270044</created>
@@ -354,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590501726110</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="2020-5-27台式机晚上提交,">
+      <created>1590581727365</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1590581727365</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,7 +403,8 @@
     <MESSAGE value="2020-5-22台式机提交,有笔记里面的图片没有add进来" />
     <MESSAGE value="2020-5-26台式机提交," />
     <MESSAGE value="2020-5-26台式机晚上提交," />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-5-26台式机晚上提交," />
+    <MESSAGE value="2020-5-27台式机晚上提交," />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-5-27台式机晚上提交," />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -407,6 +418,11 @@
           <url>file://$PROJECT_DIR$/src/com/leetcode/tree/Demo4.java</url>
           <line>22</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/recursive/Demo8_5.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/leetcode/coderAlgo/Demo6.java</url>
