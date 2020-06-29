@@ -5,8 +5,6 @@ import java.util.List;
 
 public class Demo1 {
 
-
-
     // todo 需要从数组中找出m段最大的和
     public int method(int[] arr,int m){
         List<Integer> re = new ArrayList<>();
