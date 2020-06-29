@@ -1,14 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/recursive/Demo16_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/recursive/Demo687.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/recursive/REANME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/work/day5_27/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/aipSystem/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dataStructure/MyCircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/dp/Demo309.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/linkedList/Demo25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/linkedList/Demo2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/string/Demo1177.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/string/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/string/Demo6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/traceback/Demo89.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/traceback/Demo89.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,23 +46,6 @@
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="103" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Bevishe" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,7 +57,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="MIXED" />
+    <option name="RESET_MODE" value="HARD" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="JsFlowSettings">
@@ -54,6 +67,10 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1RM5xYzxsgVpcmwxmGwkaitAMZb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
@@ -64,7 +81,8 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/work/day5_24" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -76,59 +94,24 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA_HOME\Bevishe\src\com\work\day5_24" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\JAVAHOME\Bevishe\libs" />
       <recent name="D:\JAVAHOME\Bevishe\src\com\bevis\util" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Demo16_11">
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.work.day5_24.Demo1" />
+  <component name="RunManager" selected="Application.Demo2">
+    <configuration name="Demo1177" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.string.Demo1177" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.work.day5_24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo1028" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.tree.Demo1028" />
-      <module name="Bevishe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo16_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.recursive.Demo16_11" />
-      <module name="Bevishe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.recursive.*" />
+          <option name="PATTERN" value="com.leetcode.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +120,11 @@
       </method>
     </configuration>
     <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.regex.Demo2" />
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.aipSystem.Demo2" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.regex.*" />
+          <option name="PATTERN" value="com.cqupt.aipSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +132,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo572" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.tree.Demo572" />
+    <configuration name="Demo25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.linkedList.Demo25" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.tree.*" />
+          <option name="PATTERN" value="com.leetcode.linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.string.Demo5" />
+      <module name="Bevishe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo89" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.traceback.Demo89" />
+      <module name="Bevishe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.traceback.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,13 +173,16 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo16_11" />
-        <item itemvalue="Application.Demo572" />
-        <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.Demo1028" />
         <item itemvalue="Application.Demo2" />
+        <item itemvalue="Application.Demo25" />
+        <item itemvalue="Application.Demo5" />
+        <item itemvalue="Application.Demo1177" />
+        <item itemvalue="Application.Demo89" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -212,7 +224,17 @@
       <workItem from="1589761791506" duration="461000" />
       <workItem from="1589768367064" duration="43814000" />
       <workItem from="1589972224415" duration="6220000" />
-      <workItem from="1590108604959" duration="67264000" />
+      <workItem from="1590108604959" duration="56104000" />
+      <workItem from="1590903171407" duration="50000" />
+      <workItem from="1590903804997" duration="27179000" />
+      <workItem from="1591172755105" duration="1317000" />
+      <workItem from="1591175350701" duration="96000" />
+      <workItem from="1591175533964" duration="5007000" />
+      <workItem from="1591457511317" duration="19333000" />
+      <workItem from="1592032255210" duration="3911000" />
+      <workItem from="1592147064407" duration="14178000" />
+      <workItem from="1592294052149" duration="25466000" />
+      <workItem from="1593270395868" duration="3516000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础语法">
       <created>1570362270044</created>
@@ -347,18 +369,18 @@
       <option name="project" value="LOCAL" />
       <updated>1590456560281</updated>
     </task>
-    <task id="LOCAL-00020" summary="2020-5-26台式机晚上提交,">
-      <created>1590501726110</created>
+    <task id="LOCAL-00020" summary="2020-6-7提交一些关于回溯法的代码,">
+      <created>1591530104806</created>
       <option name="number" value="00020" />
       <option name="presentableId" value="LOCAL-00020" />
       <option name="project" value="LOCAL" />
-      <updated>1590501726110</updated>
+      <updated>1591530104806</updated>
     </task>
     <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -366,12 +388,23 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="COLUMN_ORDER" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
             </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="完成基础语法" />
@@ -392,8 +425,70 @@
     <MESSAGE value="2020-5-22台式机提交，tree相关" />
     <MESSAGE value="2020-5-22台式机提交,有笔记里面的图片没有add进来" />
     <MESSAGE value="2020-5-26台式机提交," />
-    <MESSAGE value="2020-5-26台式机晚上提交," />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-5-26台式机晚上提交," />
+    <MESSAGE value="2020-6-7提交一些关于回溯法的代码," />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-6-7提交一些关于回溯法的代码," />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1593270921980">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1593270921980" />
+    <state x="363" y="98" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1592144941699">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="98" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1592144941699" />
+    <state x="252" y="0" width="1075" height="728" key="CommitChangelistDialog2" timestamp="1591530097944">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="252" y="0" width="1075" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591530097944" />
+    <state width="666" height="207" key="GridCell.Tab.0.bottom" timestamp="1593270983497">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="666" height="207" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593270983497" />
+    <state width="666" height="207" key="GridCell.Tab.0.center" timestamp="1593270983497">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="666" height="207" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593270983497" />
+    <state width="666" height="207" key="GridCell.Tab.0.left" timestamp="1593270983496">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="666" height="207" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593270983496" />
+    <state width="666" height="207" key="GridCell.Tab.0.right" timestamp="1593270983497">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="666" height="207" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593270983497" />
+    <state width="975" height="184" key="GridCell.Tab.1.bottom" timestamp="1592498874796">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="975" height="184" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592498874796" />
+    <state width="975" height="184" key="GridCell.Tab.1.center" timestamp="1592498874796">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="975" height="184" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1592498874796" />
+    <state width="975" height="184" key="GridCell.Tab.1.left" timestamp="1592498874796">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="975" height="184" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1592498874796" />
+    <state width="975" height="184" key="GridCell.Tab.1.right" timestamp="1592498874796">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="975" height="184" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592498874796" />
+    <state x="129" y="54" key="MergeDialog" timestamp="1591530215858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="54" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1591530215858" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1592295308447">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592295308447" />
+    <state x="246" y="75" key="Vcs.Push.Dialog.v2" timestamp="1591530176147">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="246" y="75" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1591530176147" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1591517896112">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1591517896112" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -407,6 +502,11 @@
           <url>file://$PROJECT_DIR$/src/com/leetcode/tree/Demo4.java</url>
           <line>22</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/string/Demo5.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/leetcode/coderAlgo/Demo6.java</url>
