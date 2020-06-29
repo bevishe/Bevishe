@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/recursive/Demo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/recursive/Demo8_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/traceback/Demo93.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/thread/Demo10_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/thread/Demo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/Demo16_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/Demo16_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/interview/Demo20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/recursive/Demo_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/string/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/traceback/Demo15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/work/day6_22/Demo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/traceback/Demo89.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/traceback/Demo89.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/work/day5_27/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/work/day5_27/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/DemoNow43_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/DemoNow43_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/DemoNow43_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/DemoNow43_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/recursive/Demo8_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/recursive/Demo8_5.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,13 +104,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo8_5">
-    <configuration name="Demo16_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.recursive.Demo16_11" />
+  <component name="RunManager" selected="Application.Demo11">
+    <configuration name="Demo10_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.thread.Demo10_test" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.recursive.*" />
+          <option name="PATTERN" value="com.cqupt.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo572" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.tree.Demo572" />
+    <configuration name="Demo11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.thread.Demo11" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.tree.*" />
+          <option name="PATTERN" value="com.cqupt.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo8_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.recursive.Demo8_5" />
+    <configuration name="Demo16_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.array.Demo16_20" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.recursive.*" />
+          <option name="PATTERN" value="com.leetcode.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo8_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.trackback.Demo8_8" />
+    <configuration name="DemoNow43_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.DemoNow43_1" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.traceback.*" />
+          <option name="PATTERN" value="com.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,26 +157,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo93" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.traceback.Demo93" />
+    <configuration name="Demo10_test.ThreadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.traceback.*" />
+          <option name="PATTERN" value="com.cqupt.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cqupt.thread" />
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.thread.Demo10_test" />
+      <option name="METHOD_NAME" value="ThreadTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo8_5" />
-        <item itemvalue="Application.Demo93" />
-        <item itemvalue="Application.Demo8_8" />
-        <item itemvalue="Application.Demo16_11" />
-        <item itemvalue="Application.Demo572" />
+        <item itemvalue="Application.Demo11" />
+        <item itemvalue="Application.Demo10_test" />
+        <item itemvalue="JUnit.Demo10_test.ThreadTest" />
+        <item itemvalue="Application.Demo16_20" />
+        <item itemvalue="Application.DemoNow43_1" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +226,7 @@
       <workItem from="1590108604959" duration="68494000" />
       <workItem from="1590677210986" duration="4514000" />
       <workItem from="1591007046184" duration="37775000" />
+      <workItem from="1592358369441" duration="60096000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础语法">
       <created>1570362270044</created>
@@ -364,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590581727365</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="2020-6-17台式机晚上提交,">
+      <created>1592358424682</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1592358424682</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -404,7 +422,8 @@
     <MESSAGE value="2020-5-26台式机提交," />
     <MESSAGE value="2020-5-26台式机晚上提交," />
     <MESSAGE value="2020-5-27台式机晚上提交," />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-5-27台式机晚上提交," />
+    <MESSAGE value="2020-6-17台式机晚上提交," />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-6-17台式机晚上提交," />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -421,8 +440,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/leetcode/recursive/Demo8_5.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="20" />
+          <line>17</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/leetcode/coderAlgo/Demo6.java</url>
