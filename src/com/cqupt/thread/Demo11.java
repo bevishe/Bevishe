@@ -69,7 +69,5 @@ public class Demo11 {
         new Thread(threadPrintArrayList2).start();
         new Thread(threadPrintArrayList3).start();
 
-
-
     }
 }

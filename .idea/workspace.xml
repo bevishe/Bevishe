@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/thread/Demo10_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/thread/Demo11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/Demo16_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/Demo16_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/interview/Demo20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/recursive/Demo_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/string/Demo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/traceback/Demo15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/work/day6_22/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/thread/Demo12_join.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/thread/Demo13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/thread/Demo14_DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/createType/BuilderPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/createType/FactoryPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/createType/SingleObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/DemoNow43_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/DemoNow43_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/DemoNow43_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/DemoNow43_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/recursive/Demo8_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/recursive/Demo8_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cqupt/thread/Demo11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/thread/Demo11.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,9 +99,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo11">
-    <configuration name="Demo10_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.thread.Demo10_test" />
+  <component name="RunManager" selected="Application.FactoryPatternDemo">
+    <configuration name="Demo12_join" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.thread.Demo12_join" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.thread.Demo11" />
+    <configuration name="Demo13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.thread.Demo13" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
@@ -131,33 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo16_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.array.Demo16_20" />
-      <module name="Bevishe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoNow43_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.DemoNow43_1" />
-      <module name="Bevishe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo10_test.ThreadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo14_DeadLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.thread.Demo14_DeadLock" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
@@ -165,21 +135,43 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cqupt.thread" />
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.thread.Demo10_test" />
-      <option name="METHOD_NAME" value="ThreadTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designPatterns.createType.FactoryPatternDemo" />
+      <module name="Bevishe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designPatterns.createType.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designPatterns.createType.SingleDemoTest" />
+      <module name="Bevishe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designPatterns.createType.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo11" />
-        <item itemvalue="Application.Demo10_test" />
-        <item itemvalue="JUnit.Demo10_test.ThreadTest" />
-        <item itemvalue="Application.Demo16_20" />
-        <item itemvalue="Application.DemoNow43_1" />
+        <item itemvalue="Application.FactoryPatternDemo" />
+        <item itemvalue="Application.SingleDemoTest" />
+        <item itemvalue="Application.Demo14_DeadLock" />
+        <item itemvalue="Application.Demo13" />
+        <item itemvalue="Application.Demo12_join" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +218,8 @@
       <workItem from="1590108604959" duration="68494000" />
       <workItem from="1590677210986" duration="4514000" />
       <workItem from="1591007046184" duration="37775000" />
-      <workItem from="1592358369441" duration="60096000" />
+      <workItem from="1592358369441" duration="72695000" />
+      <workItem from="1593605426259" duration="5246000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础语法">
       <created>1570362270044</created>
@@ -382,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592358424682</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="2020-6-29台式机晚上提交,添加了一些测试多线程的代码">
+      <created>1593442992875</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1593442992875</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -423,7 +423,8 @@
     <MESSAGE value="2020-5-26台式机晚上提交," />
     <MESSAGE value="2020-5-27台式机晚上提交," />
     <MESSAGE value="2020-6-17台式机晚上提交," />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-6-17台式机晚上提交," />
+    <MESSAGE value="2020-6-29台式机晚上提交,添加了一些测试多线程的代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-6-29台式机晚上提交,添加了一些测试多线程的代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
