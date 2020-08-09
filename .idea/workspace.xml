@@ -2,14 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/thread/Demo12_join.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/thread/Demo13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/thread/Demo14_DeadLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/createType/BuilderPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/createType/FactoryPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/createType/SingleObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/annotation/注解笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/reflaction/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/reflaction/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo1143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/Demo1051.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/Demo1144.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/Demo1343.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/Demo1414.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/Demo62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/Demo714.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/interview/Demo2_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/interview/Demo33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/interview/Demo34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/interview/Demo36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/interview/Demo38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/interview/Demo41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/interview/Demo48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/stock/Demo121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/stock/Demo122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/stock/Demo123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/stock/Demo188.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/hj/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/hj/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/hj/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/hj/TestAbs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/work/day5_24/Demo_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/work/day7_3/Demo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cqupt/thread/Demo11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/thread/Demo11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/reflaction/反射笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/reflaction/反射笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadPool/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadPool/Demo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadPool/线程池.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadPool/线程池.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/swordOffer/Demo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/swordOffer/Demo3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cqupt/reflaction/反射笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/reflaction/反射笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cqupt/threadPool/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/threadPool/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cqupt/threadPool/线程池.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/threadPool/线程池.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/designPatterns/createType/BuilderPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/designPatterns/createType/BuilderPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/linkedList/Demo2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/linkedList/Demo2_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo3.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +48,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="103" />
+    <option name="myElementSize" value="166" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -67,7 +97,8 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/daima/daima/filesystem" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -76,6 +107,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -99,13 +131,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FactoryPatternDemo">
-    <configuration name="Demo12_join" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.thread.Demo12_join" />
+  <component name="RunManager" selected="Application.Demo48">
+    <configuration name="Demo1143" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.Demo1143" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.thread.*" />
+          <option name="PATTERN" value="com.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.thread.Demo13" />
+    <configuration name="Demo188" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.stock.Demo188" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.thread.*" />
+          <option name="PATTERN" value="com.leetcode.stock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo14_DeadLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cqupt.thread.Demo14_DeadLock" />
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nowcoder.hj.Demo2" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cqupt.thread.*" />
+          <option name="PATTERN" value="com.nowcoder.hj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.designPatterns.createType.FactoryPatternDemo" />
+    <configuration name="Demo48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.interview.Demo48" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.designPatterns.createType.*" />
+          <option name="PATTERN" value="com.leetcode.interview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.designPatterns.createType.SingleDemoTest" />
+    <configuration name="TestAbs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nowcoder.hj.TestAbs" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.designPatterns.createType.*" />
+          <option name="PATTERN" value="com.nowcoder.hj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,13 +199,16 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FactoryPatternDemo" />
-        <item itemvalue="Application.SingleDemoTest" />
-        <item itemvalue="Application.Demo14_DeadLock" />
-        <item itemvalue="Application.Demo13" />
-        <item itemvalue="Application.Demo12_join" />
+        <item itemvalue="Application.Demo48" />
+        <item itemvalue="Application.TestAbs" />
+        <item itemvalue="Application.Demo2" />
+        <item itemvalue="Application.Demo188" />
+        <item itemvalue="Application.Demo1143" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_NON_PUBLIC,SHOW_INTERFACES" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -219,7 +254,21 @@
       <workItem from="1590677210986" duration="4514000" />
       <workItem from="1591007046184" duration="37775000" />
       <workItem from="1592358369441" duration="72695000" />
-      <workItem from="1593605426259" duration="5246000" />
+      <workItem from="1593605426259" duration="17783000" />
+      <workItem from="1594014957783" duration="360000" />
+      <workItem from="1594185945272" duration="2531000" />
+      <workItem from="1594271897643" duration="31000" />
+      <workItem from="1594348909374" duration="18090000" />
+      <workItem from="1594526658685" duration="7015000" />
+      <workItem from="1594813519494" duration="607000" />
+      <workItem from="1594973395488" duration="5020000" />
+      <workItem from="1595768372675" duration="29296000" />
+      <workItem from="1596076421687" duration="5579000" />
+      <workItem from="1596184267149" duration="25218000" />
+      <workItem from="1596506250626" duration="15892000" />
+      <workItem from="1596784761042" duration="8387000" />
+      <workItem from="1596869635139" duration="29000" />
+      <workItem from="1596952410805" duration="10329000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础语法">
       <created>1570362270044</created>
@@ -382,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593442992875</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="2020-6-29台式机晚上提交,添加了单例模式，工厂模式，抽象工厂模式的代码">
+      <created>1593614566807</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1593614566807</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,7 +480,8 @@
     <MESSAGE value="2020-5-27台式机晚上提交," />
     <MESSAGE value="2020-6-17台式机晚上提交," />
     <MESSAGE value="2020-6-29台式机晚上提交,添加了一些测试多线程的代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-6-29台式机晚上提交,添加了一些测试多线程的代码" />
+    <MESSAGE value="2020-6-29台式机晚上提交,添加了单例模式，工厂模式，抽象工厂模式的代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-6-29台式机晚上提交,添加了单例模式，工厂模式，抽象工厂模式的代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -444,6 +501,16 @@
           <line>17</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/interview/Demo38.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/interview/Demo48.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/leetcode/coderAlgo/Demo6.java</url>
           <line>8</line>
@@ -456,8 +523,20 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Bevishe$Demo33.ic" NAME="Demo33 Coverage Results" MODIFIED="1596252113197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.leetcode.interview.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Bevishe$Demo1_Multi.ic" NAME="Demo1_Multi Coverage Results" MODIFIED="1570801837981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.cqupt.chapter12.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Bevishe$Demo1143.ic" NAME="Demo1143 Coverage Results" MODIFIED="1596716525099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.leetcode.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Bevishe$Demo122.ic" NAME="Demo122 Coverage Results" MODIFIED="1596252083313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.leetcode.stock.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Bevishe$Demo121.ic" NAME="Demo121 Coverage Results" MODIFIED="1596276693480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.leetcode.stock.*</FILTER>
     </SUITE>
   </component>
 </project>

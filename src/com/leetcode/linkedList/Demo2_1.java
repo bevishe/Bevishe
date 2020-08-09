@@ -10,16 +10,7 @@ import java.util.HashSet;
  */
 public class Demo2_1 {
 
-    public ListNode removeDuplicateNodes(ListNode head) {
-        HashSet<Integer> hashSet = new HashSet<>();
-        ListNode curNode = head,next = head.
-        while(curNode != null){
-            if(hashSet.contains(curNode.val)){
-                // 删除当前节点
 
-            }
-        }
-    }
 
 
     public static void main(String[] args) {

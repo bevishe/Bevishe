@@ -1,6 +1,5 @@
 package com.designPatterns.createType;
 
-
 interface Item{
     public String name();
     public float price();
@@ -95,8 +94,6 @@ class Pepsi extends ColdDrink {
         return "Pepsi";
     }
 }
-
-
 
 public class BuilderPattern {
     // 建造者模式

@@ -29,6 +29,20 @@ public class Demo3 {
         return -1;
     }
 
+    public void exchange(int[] nums,int first,int second){
+        int temp = nums[first];
+        nums[first] = nums[second];
+        nums[second] = temp;
+    }
+
+    // 使用交换的思想
+    public int method2(int[] nums){
+        for (int i = 0; i < nums.length; i++) {
+
+        }
+        return 0;
+    }
+
     public static void main(String[] args) {
 
     }
