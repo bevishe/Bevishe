@@ -1,5 +1,6 @@
 package com.work.day5_24;
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Demo1 {
@@ -26,15 +27,23 @@ public class Demo1 {
     }
 
     public static void main(String[] args) {
-        Demo1 demo1 = new Demo1();
-        System.out.println(demo1.soulution(5,3));
+//        Demo1 demo1 = new Demo1();
+//        System.out.println(demo1.soulution(5,3));
+//
+//
+//        Scanner scanner = new Scanner(System.in);
+//        while(scanner.hasNextLine()){
+//            String s = scanner.nextLine();
+//            System.out.println("has next line");
+//        }
 
 
-        Scanner scanner = new Scanner(System.in);
-        while(scanner.hasNextLine()){
-            String s = scanner.nextLine();
-            System.out.println("has next line");
-        }
+        final ArrayList arrayList = new ArrayList();
+        arrayList.add(1);
+        System.out.println(arrayList.get(0));
+        arrayList.set(0,2);
+        System.out.println(arrayList.get(0));
+        Object o = new Object();
     }
 
 }

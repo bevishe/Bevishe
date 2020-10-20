@@ -35,21 +35,37 @@ public class Demo48 {
         }
 
         // 3.上面和左边交换
-        for (int j = 0; j < len - 2*i; j++) {
-            tempArr[j] = matrix[j][i];
-        }
-        for (int j = i; j < i+changeLen; j++) {
-            matrix[len-1-j][i] = matrix[i][j];
-        }
-        for (int j = i; j < i+changeLen; j++) {
-            matrix[i][j] = tempArr[len - 1- j];
-        }
+//        for (int j = 0; j < len - 2*i; j++) {
+//            tempArr[j] = matrix[j][i];
+//        }
+//        for (int j = i; j < i+changeLen; j++) {
+//            matrix[len-1-j][i] = matrix[i][j];
+//        }
+//        for (int j = i; j < i+changeLen; j++) {
+//            matrix[i][j] = tempArr[len - 1- j];
+//        }
 
+    }
+
+    public static void solu(int[][] matrix){
+        int i = matrix.length /2 - 1;
+        int temp = matrix[i][i];
+        matrix[i][i] = matrix[i][i+1];
+        matrix[i][i+1] = temp;
+        temp = matrix[i][i];
+        matrix[i][i] = matrix[i+1][i+1];
+        matrix[i+1][i+1] = temp;
+        temp = matrix[i][i];
+        matrix[i][i] = matrix[i+1][i];
+        matrix[i+1][i] = temp;
     }
 
     public void rotate(int[][] matrix){
         int m = matrix.length / 2;
         for (int i = 0; i < m; i++) {
+//            if(i==matrix.length / 2 -1 && matrix.length % 2 ==0){
+//                solu(matrix);
+//            }
             solution(matrix,i);
         }
     }

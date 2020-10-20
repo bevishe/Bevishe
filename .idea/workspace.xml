@@ -2,44 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/annotation/注解笔记.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/reflaction/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cqupt/reflaction/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo1143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/Demo1051.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/Demo1144.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/Demo1343.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/Demo1414.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/Demo62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/Demo714.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/interview/Demo2_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/interview/Demo33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/interview/Demo34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/interview/Demo36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/interview/Demo38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/interview/Demo41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/interview/Demo48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/stock/Demo121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/stock/Demo122.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/stock/Demo123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/stock/Demo188.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/hj/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/hj/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/hj/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nowcoder/hj/TestAbs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/work/day5_24/Demo_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/work/day7_3/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/string/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cqupt/threadPool/SumThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dataStructure/doubleLinkedList/DNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dataStructure/doubleLinkedList/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dataStructure/linkList/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dataStructure/linkList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dataStructure/shortestPath/Dijkstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dataStructure/tree/DemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dataStructure/tree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/guide/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/guide/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/Demo198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/dp/Demo474.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/interview/Demo42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/interview/Demo49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/interview/Demo54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/interview/Demo8_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/interview/Demo_sc1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/work/day5_24/Demo3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/reflaction/反射笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/reflaction/反射笔记.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadPool/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadPool/Demo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadPool/线程池.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bevishe/com/cqupt/threadPool/线程池.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/swordOffer/Demo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/swordOffer/Demo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cqupt/reflaction/反射笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/reflaction/反射笔记.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cqupt/threadPool/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/threadPool/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cqupt/threadPool/线程池.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cqupt/threadPool/线程池.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/designPatterns/createType/BuilderPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/designPatterns/createType/BuilderPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/linkedList/Demo2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/linkedList/Demo2_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/swordOffer/Demo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/interview/Demo48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/interview/Demo48.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/work/day5_24/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/work/day5_24/Demo1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +83,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/daima/daima/filesystem" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -111,7 +96,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -131,13 +116,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo48">
-    <configuration name="Demo1143" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.Demo1143" />
+  <component name="RunManager" selected="Application.Demo3">
+    <configuration name="Demo1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.work.day5_24.Demo1" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.*" />
+          <option name="PATTERN" value="com.work.day5_24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo188" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.stock.Demo188" />
+    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.work.day5_24.Demo3" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.stock.*" />
+          <option name="PATTERN" value="com.work.day5_24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nowcoder.hj.Demo2" />
+    <configuration name="Dijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataStructure.shortestPath.Dijkstra" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nowcoder.hj.*" />
+          <option name="PATTERN" value="com.dataStructure.shortestPath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.interview.Demo48" />
+    <configuration name="Father" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.guide.Father" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.interview.*" />
+          <option name="PATTERN" value="com.guide.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAbs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nowcoder.hj.TestAbs" />
+    <configuration name="SumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cqupt.threadPool.SumTest" />
       <module name="Bevishe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nowcoder.hj.*" />
+          <option name="PATTERN" value="com.cqupt.threadPool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo48" />
-        <item itemvalue="Application.TestAbs" />
-        <item itemvalue="Application.Demo2" />
-        <item itemvalue="Application.Demo188" />
-        <item itemvalue="Application.Demo1143" />
+        <item itemvalue="Application.Demo3" />
+        <item itemvalue="Application.Demo1 (2)" />
+        <item itemvalue="Application.SumTest" />
+        <item itemvalue="Application.Father" />
+        <item itemvalue="Application.Dijkstra" />
       </list>
     </recent_temporary>
   </component>
@@ -269,6 +254,23 @@
       <workItem from="1596784761042" duration="8387000" />
       <workItem from="1596869635139" duration="29000" />
       <workItem from="1596952410805" duration="10329000" />
+      <workItem from="1597493554614" duration="7280000" />
+      <workItem from="1597662375352" duration="2897000" />
+      <workItem from="1597718454341" duration="18974000" />
+      <workItem from="1597995683050" duration="3758000" />
+      <workItem from="1598007489669" duration="24000" />
+      <workItem from="1598253617360" duration="15381000" />
+      <workItem from="1598443474895" duration="15000" />
+      <workItem from="1598881413999" duration="10290000" />
+      <workItem from="1599101493539" duration="2510000" />
+      <workItem from="1599532465071" duration="4746000" />
+      <workItem from="1599619205074" duration="4460000" />
+      <workItem from="1600830863171" duration="8488000" />
+      <workItem from="1600944155315" duration="22000" />
+      <workItem from="1602312360817" duration="2574000" />
+      <workItem from="1602463809593" duration="36000" />
+      <workItem from="1602506664714" duration="1434000" />
+      <workItem from="1602664929452" duration="4075000" />
     </task>
     <task id="LOCAL-00001" summary="完成基础语法">
       <created>1570362270044</created>
@@ -447,6 +449,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -455,6 +482,11 @@
           </value>
         </entry>
       </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
@@ -508,8 +540,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/leetcode/interview/Demo48.java</url>
-          <line>50</line>
+          <line>63</line>
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/interview/Demo49.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetcode/interview/Demo_sc1.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/leetcode/coderAlgo/Demo6.java</url>
