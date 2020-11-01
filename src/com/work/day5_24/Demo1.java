@@ -1,10 +1,8 @@
 package com.work.day5_24;
 
 import java.util.ArrayList;
-import java.util.Scanner;
 
 public class Demo1 {
-
 
     public int soulution(int x,int y){
         int re = 0;
@@ -26,6 +24,7 @@ public class Demo1 {
         return re + coutX * coutY;
     }
 
+
     public static void main(String[] args) {
 //        Demo1 demo1 = new Demo1();
 //        System.out.println(demo1.soulution(5,3));
@@ -45,5 +44,6 @@ public class Demo1 {
         System.out.println(arrayList.get(0));
         Object o = new Object();
     }
+
 
 }
