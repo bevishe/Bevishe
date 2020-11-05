@@ -1,48 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="2020-11-1包含一些秋招刷题的代码，不全">
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/AnonymousConstructor$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/AnonymousConstructor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Base.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Checkers$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Checkers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Chess$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Chess.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Contents.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Demo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Demo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Demo3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Demo4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Demo5$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Demo5$ParcelContents.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Demo5$ParcelDestination$AnotherLeval.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Demo5$ParcelDestination.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Demo5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Destination.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Factories.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Game.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/GameFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Games.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Implementation1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Implementation1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Implementation2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Implementation2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Parcel4$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Parcel4$PContent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Parcel4$PDestination.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Parcel4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/Service.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Bevishe/com/thinkInJava/chapter10/ServiceFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thinkInJava/chapter10/Contents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thinkInJava/chapter10/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thinkInJava/chapter10/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thinkInJava/chapter10/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thinkInJava/chapter10/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thinkInJava/chapter10/Demo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thinkInJava/chapter10/Destination.java" afterDir="false" />
+    <list default="true" id="3f9f6a60-b4db-46a8-abe4-1ba736e50a4d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/swordOffer/demo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Bevishe/com/leetcode/swordOffer/demo3.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -607,7 +567,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/leetcode/coderAlgo/Demo6.java</url>
           <line>8</line>
-          <properties class="com.leetcode.coderAlgo.Demo6" method="compressString">
+          <properties class="com.leetcode.coderAlgo.Demo6">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="11" />
