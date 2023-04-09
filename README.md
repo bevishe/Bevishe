@@ -8,11 +8,21 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😎 I'm Focusing on Java Backend and Cloud Native
+
+
+### 🪐Github Analysis
+<div align="center">
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=bevishe&show_icons=true" />
+<img height="170px" src="https://streak-stats.demolab.com/?user=bevishe" />
+</div>
+
+### ✅Activity
+<div align="center">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=bevishe&theme=xcode" />
+</div>
+
+### 🏆Trophy
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bevishe&theme=onedark" />
+</div
